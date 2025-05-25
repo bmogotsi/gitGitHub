@@ -1,0 +1,55 @@
+# EZSheet
+
+########################################################
+# explicit files in the folder that we should IGNORE   #
+########################################################
+duesRecords.xlsx
+
+######################
+# downloads to CWD   #
+######################
+*.xlsx
+*.csv
+*.tsv
+*.ods
+*.pdf
+*.zip
+
+https://gist.github.com/octocat/9257657
+# Some common .gitignore configurations #
+# Compiled source #
+###################
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Packages #
+############
+# it's better to unpack these files and commit the raw source
+# git has its own built in compression methods
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# Logs and databases #
+######################
+*.log
+*.sql
+*.sqlite
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
