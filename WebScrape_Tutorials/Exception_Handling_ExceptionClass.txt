@@ -1,0 +1,168 @@
+https://fbref.com/en/squads/b8fd03ef/Manchester-City-Stats
+
+
+
+<bound method NDFrame.head of           Date   Time                 Comp                     Round  Day Venue  ...          Captain   Formation Opp Formation             Referee  Match Report                        Notes
+0   2024-08-10  15:00  FA Community Shield       FA Community Shield  Sat  Home  ...       Rúben Dias       4-3-3       4-2-3-1      Jarred Gillett  Match Report                          NaN
+1   2024-08-18  16:30       Premier League               Matchweek 1  Sun  Away  ...  Kevin De Bruyne     3-2-4-1       4-2-3-1      Anthony Taylor  Match Report                          NaN
+2   2024-08-24  15:00       Premier League               Matchweek 2  Sat  Home  ...  Kevin De Bruyne     3-2-4-1         5-4-1      Samuel Allison  Match Report                          NaN
+3   2024-08-31  17:30       Premier League               Matchweek 3  Sat  Away  ...  Kevin De Bruyne     3-2-4-1       4-2-3-1      Michael Oliver  Match Report                          NaN
+4   2024-09-14  15:00       Premier League               Matchweek 4  Sat  Home  ...      Kyle Walker     4-2-3-1         5-3-2         Darren Bond  Match Report                          NaN
+5   2024-09-18  20:00         Champions Lg              League phase  Wed  Home  ...  Kevin De Bruyne     3-2-4-1         3-5-2        Glenn Nyberg  Match Report                          NaN
+6   2024-09-22  16:30       Premier League               Matchweek 5  Sun  Home  ...      Kyle Walker       4-3-3         4-4-2      Michael Oliver  Match Report                          NaN
+7   2024-09-24  19:45              EFL Cup               Third round  Tue  Home  ...      Kyle Walker     3-2-4-1         5-3-2          David Webb  Match Report                          NaN
+8   2024-09-28  12:30       Premier League               Matchweek 6  Sat  Away  ...      Kyle Walker     4-2-3-1         4-3-3      Jarred Gillett  Match Report                          NaN
+9   2024-10-01  21:00         Champions Lg              League phase  Tue  Away  ...   İlkay Gündoğan     4-2-3-1       4-2-3-1        Davide Massa  Match Report                          NaN
+10  2024-10-05  15:00       Premier League               Matchweek 7  Sat  Home  ...       Rúben Dias     4-1-4-1         5-4-1        Peter Bankes  Match Report                          NaN
+11  2024-10-20  14:00       Premier League               Matchweek 8  Sun  Away  ...       Rúben Dias     4-1-4-1         3-5-2      Chris Kavanagh  Match Report                          NaN
+12  2024-10-23  20:00         Champions Lg              League phase  Wed  Home  ...   Bernardo Silva     4-1-4-1         3-4-3    Maurizio Mariani  Match Report                          NaN
+13  2024-10-26  15:00       Premier League               Matchweek 9  Sat  Home  ...       Rúben Dias     4-1-4-1         5-4-1     Tony Harrington  Match Report                          NaN
+14  2024-10-30  20:15              EFL Cup              Fourth round  Wed  Away  ...       Rúben Dias     4-1-4-1         4-3-3        Robert Jones  Match Report                          NaN
+15  2024-11-02  15:00       Premier League              Matchweek 10  Sat  Away  ...      Kyle Walker     4-1-4-1       4-2-3-1      Michael Oliver  Match Report                          NaN
+16  2024-11-05  20:00         Champions Lg              League phase  Tue  Away  ...   Bernardo Silva     4-1-4-1         3-4-3      Daniel Siebert  Match Report                          NaN
+17  2024-11-09  17:30       Premier League              Matchweek 11  Sat  Away  ...      Kyle Walker     4-1-4-1         4-4-2      Samuel Barrott  Match Report                          NaN
+18  2024-11-23  17:30       Premier League              Matchweek 12  Sat  Home  ...      Kyle Walker       4-3-3         4-3-3         John Brooks  Match Report                          NaN
+19  2024-11-26  20:00         Champions Lg              League phase  Tue  Home  ...   Bernardo Silva     4-2-3-1         4-3-3       Radu Petrescu  Match Report                          NaN
+20  2024-12-01  16:00       Premier League              Matchweek 13  Sun  Away  ...      Kyle Walker     4-2-3-1       4-2-3-1      Chris Kavanagh  Match Report                          NaN
+21  2024-12-04  19:30       Premier League              Matchweek 14  Wed  Home  ...  Kevin De Bruyne     4-2-3-1       4-2-3-1      Michael Oliver  Match Report                          NaN
+22  2024-12-07  15:00       Premier League              Matchweek 15  Sat  Away  ...      Kyle Walker     4-2-3-1         3-4-3        Robert Jones  Match Report                          NaN
+23  2024-12-11  21:00         Champions Lg              League phase  Wed  Away  ...      Kyle Walker     4-2-3-1       4-2-3-1      Clément Turpin  Match Report                          NaN
+24  2024-12-15  16:30       Premier League              Matchweek 16  Sun  Home  ...      Kyle Walker     4-1-4-1         3-4-3      Anthony Taylor  Match Report                          NaN
+25  2024-12-21  12:30       Premier League              Matchweek 17  Sat  Away  ...   Bernardo Silva     4-2-3-1       4-2-3-1        Peter Bankes  Match Report                          NaN
+26  2024-12-26  12:30       Premier League              Matchweek 18  Thu  Home  ...   Bernardo Silva     4-1-4-1         4-3-3        Simon Hooper  Match Report                          NaN
+27  2024-12-29  14:30       Premier League              Matchweek 19  Sun  Away  ...  Kevin De Bruyne     4-1-4-1       4-2-3-1      Michael Oliver  Match Report                          NaN
+28  2025-01-04  15:00       Premier League              Matchweek 20  Sat  Home  ...  Kevin De Bruyne     4-1-4-1       4-2-3-1   Michael Salisbury  Match Report                          NaN
+29  2025-01-11  17:45               FA Cup        Third round proper  Sat  Home  ...   İlkay Gündoğan       3-4-3       3-1-4-2        Joshua Smith  Match Report                          NaN
+30  2025-01-14  19:30       Premier League              Matchweek 21  Tue  Away  ...  Kevin De Bruyne     4-2-3-1         4-3-3      Anthony Taylor  Match Report                          NaN
+31  2025-01-19  16:30       Premier League              Matchweek 22  Sun  Away  ...  Kevin De Bruyne     4-2-3-1         5-4-1      Samuel Barrott  Match Report                          NaN
+32  2025-01-22  21:00         Champions Lg              League phase  Wed  Away  ...  Kevin De Bruyne     4-2-3-1         4-3-3    Szymon Marciniak  Match Report                          NaN
+33  2025-01-25  17:30       Premier League              Matchweek 23  Sat  Home  ...   Bernardo Silva       4-3-3       4-2-3-1         John Brooks  Match Report                          NaN
+34  2025-01-29  20:00         Champions Lg              League phase  Wed  Home  ...  Kevin De Bruyne     4-2-3-1       4-2-3-1  Jose Maria Sánchez  Match Report                          NaN
+35  2025-02-02  16:30       Premier League              Matchweek 24  Sun  Away  ...   Bernardo Silva     4-2-3-1         4-3-3        Peter Bankes  Match Report                          NaN
+36  2025-02-08  12:15               FA Cup       Fourth round proper  Sat  Away  ...       Rúben Dias     4-2-3-1       4-2-3-1         Darren Bond  Match Report                          NaN
+37  2025-02-11  20:00         Champions Lg  Knockout phase play-offs  Tue  Home  ...  Kevin De Bruyne     4-1-4-1         4-4-2      Clément Turpin  Match Report                   Leg 1 of 2
+38  2025-02-15  15:00       Premier League              Matchweek 25  Sat  Home  ...   Erling Haaland     4-2-3-1         4-3-3         Andy Madley  Match Report                          NaN
+39  2025-02-19  21:00         Champions Lg  Knockout phase play-offs  Wed  Away  ...       Rúben Dias  4-1-2-1-2◆         4-4-2       István Kovács  Match Report  Leg 2 of 2; Real Madrid won
+40  2025-02-23  16:30       Premier League              Matchweek 26  Sun  Home  ...  Kevin De Bruyne     4-1-4-1       4-2-2-2      Anthony Taylor  Match Report                          NaN
+41  2025-02-26  19:30       Premier League              Matchweek 27  Wed  Away  ...       Rúben Dias     4-2-3-1         4-3-3      Jarred Gillett  Match Report                          NaN
+42  2025-03-01  17:45               FA Cup        Fifth round proper  Sat  Home  ...  Kevin De Bruyne     4-1-4-1         5-4-1        Craig Pawson  Match Report                          NaN
+43  2025-03-08  12:30       Premier League              Matchweek 28  Sat  Away  ...       Rúben Dias     4-1-4-1       4-2-3-1      Chris Kavanagh  Match Report                          NaN
+44  2025-03-15  15:00       Premier League              Matchweek 29  Sat  Home  ...       Rúben Dias     4-2-3-1       4-2-3-1        Simon Hooper  Match Report                          NaN
+45  2025-03-30  16:30               FA Cup            Quarter-finals  Sun  Away  ...  Kevin De Bruyne       4-3-3       4-2-3-1      Stuart Attwell  Match Report                          NaN
+46  2025-04-02  19:45       Premier League              Matchweek 30  Wed  Home  ...       Rúben Dias     4-2-3-1         3-4-3      Darren England  Match Report                          NaN
+47  2025-04-06  16:30       Premier League              Matchweek 31  Sun  Away  ...  Kevin De Bruyne  4-1-2-1-2◆         3-4-3         John Brooks  Match Report                          NaN
+48  2025-04-12  12:30       Premier League              Matchweek 32  Sat  Home  ...  Kevin De Bruyne     4-2-3-1         3-4-3      Jarred Gillett  Match Report                          NaN
+49  2025-04-19  15:00       Premier League              Matchweek 33  Sat  Away  ...  Kevin De Bruyne     4-2-3-1       4-2-3-1        Simon Hooper  Match Report                          NaN
+50  2025-04-22  20:00       Premier League              Matchweek 34  Tue  Home  ...  Kevin De Bruyne     4-1-4-1       4-2-3-1        Craig Pawson  Match Report                          NaN
+51  2025-04-27  16:30               FA Cup               Semi-finals  Sun  Away  ...       Rúben Dias     4-3-1-2         4-4-2      Michael Oliver  Match Report                          NaN
+52  2025-05-02  20:00       Premier League              Matchweek 35  Fri  Home  ...  Kevin De Bruyne     4-2-3-1         3-4-3        Peter Bankes  Match Report                          NaN
+53  2025-05-10  15:00       Premier League              Matchweek 36  Sat  Away  ...  Kevin De Bruyne     4-2-3-1         3-4-3        Tim Robinson  Match Report                          NaN
+54  2025-05-17  16:30               FA Cup                     Final  Sat  Away  ...              NaN         NaN           NaN                 NaN  Head-to-Head                          NaN
+55  2025-05-20  20:00       Premier League              Matchweek 37  Tue  Home  ...              NaN         NaN           NaN                 NaN  Head-to-Head                          NaN
+56  2025-05-25  16:00       Premier League              Matchweek 38  Sun  Away  ...              NaN         NaN           NaN                 NaN  Head-to-Head                          NaN
+
+[57 rows x 20 columns]>
+https://fbref.com/en/squads/b2b47a98/Newcastle-United-Stats
+
+
+
+<bound method NDFrame.head of           Date   Time            Comp                Round  Day  ... Formation Opp Formation            Referee  Match Report                                              Notes
+0   2024-08-17  15:00  Premier League          Matchweek 1  Sat  ...     4-3-3         3-5-2       Craig Pawson  Match Report                                                NaN
+1   2024-08-25  14:00  Premier League          Matchweek 2  Sun  ...     4-3-3       4-2-3-1        David Coote  Match Report                                                NaN
+2   2024-08-28  20:00         EFL Cup         Second round  Wed  ...     4-3-3       3-4-1-2     Samuel Allison  Match Report  Newcastle Utd won on penalty kicks following n...
+3   2024-09-01  13:30  Premier League          Matchweek 3  Sun  ...     4-3-3       4-2-3-1       Robert Jones  Match Report                                                NaN
+4   2024-09-15  16:30  Premier League          Matchweek 4  Sun  ...     4-3-3       4-4-1-1     Chris Kavanagh  Match Report                                                NaN
+5   2024-09-21  15:00  Premier League          Matchweek 5  Sat  ...     4-3-3       4-2-3-1       Peter Bankes  Match Report                                                NaN
+6   2024-09-28  12:30  Premier League          Matchweek 6  Sat  ...     4-3-3       4-2-3-1     Jarred Gillett  Match Report                                                NaN
+7   2024-10-01  19:45         EFL Cup          Third round  Tue  ...     4-3-3         3-5-2        Darren Bond  Match Report                                                NaN
+8   2024-10-05  17:30  Premier League          Matchweek 7  Sat  ...     4-3-3       4-2-3-1       Craig Pawson  Match Report                                                NaN
+9   2024-10-19  15:00  Premier League          Matchweek 8  Sat  ...     4-3-3         4-4-2       Peter Bankes  Match Report                                                NaN
+10  2024-10-27  14:00  Premier League          Matchweek 9  Sun  ...     4-3-3       4-2-3-1       Simon Hooper  Match Report                                                NaN
+11  2024-10-30  19:45         EFL Cup         Fourth round  Wed  ...     4-3-3       4-2-3-1     Chris Kavanagh  Match Report                                                NaN
+12  2024-11-02  12:30  Premier League         Matchweek 10  Sat  ...     4-3-3         4-4-2        John Brooks  Match Report                                                NaN
+13  2024-11-10  14:00  Premier League         Matchweek 11  Sun  ...     4-3-3       4-2-3-1     Anthony Taylor  Match Report                                                NaN
+14  2024-11-25  20:00  Premier League         Matchweek 12  Mon  ...     4-3-3       4-2-3-1       Craig Pawson  Match Report                                                NaN
+15  2024-11-30  15:00  Premier League         Matchweek 13  Sat  ...     4-3-3         3-4-3     Darren England  Match Report                                                NaN
+16  2024-12-04  19:30  Premier League         Matchweek 14  Wed  ...     4-3-3       4-2-3-1        Andy Madley  Match Report                                                NaN
+17  2024-12-07  15:00  Premier League         Matchweek 15  Sat  ...     4-3-3         3-4-3       Simon Hooper  Match Report                                                NaN
+18  2024-12-14  15:00  Premier League         Matchweek 16  Sat  ...     4-3-3       4-2-3-1     Thomas Bramall  Match Report                                                NaN
+19  2024-12-18  19:45         EFL Cup       Quarter-finals  Wed  ...     4-3-3         3-4-3     Samuel Barrott  Match Report                                                NaN
+20  2024-12-21  15:00  Premier League         Matchweek 17  Sat  ...     4-3-3       4-2-3-1     Stuart Attwell  Match Report                                                NaN
+21  2024-12-26  15:00  Premier League         Matchweek 18  Thu  ...     4-3-3       4-2-3-1     Anthony Taylor  Match Report                                                NaN
+22  2024-12-30  20:00  Premier League         Matchweek 19  Mon  ...     4-3-3         3-4-3       Simon Hooper  Match Report                                                NaN
+23  2025-01-04  12:30  Premier League         Matchweek 20  Sat  ...     4-3-3       4-2-3-1        Andy Madley  Match Report                                                NaN
+24  2025-01-07  20:00         EFL Cup          Semi-finals  Tue  ...     4-3-3         4-3-3        John Brooks  Match Report                                         Leg 1 of 2
+25  2025-01-12  15:00          FA Cup   Third round proper  Sun  ...     4-3-3         3-4-3        Will Finnie  Match Report                                                NaN
+26  2025-01-15  19:30  Premier League         Matchweek 21  Wed  ...     4-3-3         3-4-3     Darren England  Match Report                                                NaN
+27  2025-01-18  12:30  Premier League         Matchweek 22  Sat  ...     4-3-3       4-2-3-1     Stuart Attwell  Match Report                                                NaN
+28  2025-01-25  15:00  Premier League         Matchweek 23  Sat  ...     4-3-3       3-4-1-2     Samuel Barrott  Match Report                                                NaN
+29  2025-02-01  15:00  Premier League         Matchweek 24  Sat  ...     4-3-3       4-2-3-1     Chris Kavanagh  Match Report                                                NaN
+30  2025-02-05  20:00         EFL Cup          Semi-finals  Wed  ...     5-4-1         4-3-3       Simon Hooper  Match Report                      Leg 2 of 2; Newcastle Utd won
+31  2025-02-08  17:45          FA Cup  Fourth round proper  Sat  ...     4-3-3       4-2-3-1       Matt Donohue  Match Report                                                NaN
+32  2025-02-15  15:00  Premier League         Matchweek 25  Sat  ...     4-3-3       4-2-3-1        Andy Madley  Match Report                                                NaN
+33  2025-02-23  14:00  Premier League         Matchweek 26  Sun  ...     4-3-3       4-2-3-1     Jarred Gillett  Match Report                                                NaN
+34  2025-02-26  20:15  Premier League         Matchweek 27  Wed  ...   4-2-3-1       4-2-3-1     Stuart Attwell  Match Report                                                NaN
+35  2025-03-02  13:45          FA Cup   Fifth round proper  Sun  ...     4-3-3       4-2-3-1     Anthony Taylor  Match Report                                Required Extra Time
+36  2025-03-10  20:00  Premier League         Matchweek 28  Mon  ...     4-3-3         3-5-2  Michael Salisbury  Match Report                                                NaN
+37  2025-03-16  16:30         EFL Cup                Final  Sun  ...     4-3-3       4-2-3-1        John Brooks  Match Report                                                NaN
+38  2025-04-02  19:45  Premier League         Matchweek 30  Wed  ...     4-3-3       4-2-3-1       Peter Bankes  Match Report                                                NaN
+39  2025-04-07  20:00  Premier League         Matchweek 31  Mon  ...     4-3-3         3-4-3       Robert Jones  Match Report                                                NaN
+40  2025-04-13  16:30  Premier League         Matchweek 32  Sun  ...     4-3-3         3-4-3     Chris Kavanagh  Match Report                                                NaN
+41  2025-04-16  19:30  Premier League         Matchweek 29  Wed  ...     4-3-3         3-4-3     Darren England  Match Report                                                NaN
+42  2025-04-19  17:30  Premier League         Matchweek 33  Sat  ...     4-3-3       4-2-3-1     Jarred Gillett  Match Report                                                NaN
+43  2025-04-26  15:00  Premier League         Matchweek 34  Sat  ...     4-3-3       4-4-1-1  Michael Salisbury  Match Report                                                NaN
+44  2025-05-04  14:00  Premier League         Matchweek 35  Sun  ...     4-3-3       4-2-3-1       Craig Pawson  Match Report                                                NaN
+45  2025-05-11  12:00  Premier League         Matchweek 36  Sun  ...       NaN           NaN                NaN  Head-to-Head                                                NaN
+46  2025-05-18  16:30  Premier League         Matchweek 37  Sun  ...       NaN           NaN                NaN  Head-to-Head                                                NaN
+47  2025-05-25  16:00  Premier League         Matchweek 38  Sun  ...       NaN           NaN                NaN  Head-to-Head                                                NaN
+
+[48 rows x 20 columns]>
+https://fbref.com/en/squads/b74092de/Ipswich-Town-Stats
+
+
+
+<bound method NDFrame.head of           Date   Time            Comp                Round  Day  ... Formation Opp Formation            Referee  Match Report                                              Notes
+0   2024-08-17  12:30  Premier League          Matchweek 1  Sat  ...   4-2-3-1       4-2-3-1       Tim Robinson  Match Report                                                NaN
+1   2024-08-24  15:00  Premier League          Matchweek 2  Sat  ...     5-4-1       3-2-4-1     Samuel Allison  Match Report                                                NaN
+2   2024-08-28  19:45         EFL Cup         Second round  Wed  ...   4-2-3-1         3-5-2    James Linington  Match Report  AFC Wimbledon won on penalty kicks following n...
+3   2024-08-31  15:00  Premier League          Matchweek 3  Sat  ...   4-2-3-1         4-3-3        Lewis Smith  Match Report                                                NaN
+4   2024-09-14  15:00  Premier League          Matchweek 4  Sat  ...   4-2-3-1         4-4-2     Samuel Barrott  Match Report                                                NaN
+5   2024-09-21  15:00  Premier League          Matchweek 5  Sat  ...   4-2-3-1       4-2-3-1     Samuel Allison  Match Report                                                NaN
+6   2024-09-29  14:00  Premier League          Matchweek 6  Sun  ...   4-2-3-1       4-2-3-1     Stuart Attwell  Match Report                                                NaN
+7   2024-10-05  15:00  Premier League          Matchweek 7  Sat  ...   4-2-3-1       4-1-4-1     Anthony Taylor  Match Report                                                NaN
+8   2024-10-19  15:00  Premier League          Matchweek 8  Sat  ...   4-2-3-1       4-2-3-1     Michael Oliver  Match Report                                                NaN
+9   2024-10-26  15:00  Premier League          Matchweek 9  Sat  ...   4-2-3-1       4-2-3-1        Lewis Smith  Match Report                                                NaN
+10  2024-11-02  15:00  Premier League         Matchweek 10  Sat  ...   4-2-3-1       4-2-3-1       Tim Robinson  Match Report                                                NaN
+11  2024-11-10  14:00  Premier League         Matchweek 11  Sun  ...   4-2-3-1         4-3-3     Darren England  Match Report                                                NaN
+12  2024-11-24  16:30  Premier League         Matchweek 12  Sun  ...   4-2-3-1         3-4-3     Anthony Taylor  Match Report                                                NaN
+13  2024-11-30  15:00  Premier League         Matchweek 13  Sat  ...   4-2-3-1       4-2-3-1    Tony Harrington  Match Report                                                NaN
+14  2024-12-03  19:30  Premier League         Matchweek 14  Tue  ...   4-2-3-1         3-4-3       Craig Pawson  Match Report                                                NaN
+15  2024-12-08  14:00  Premier League         Matchweek 15  Sun  ...   4-2-3-1       4-2-3-1  Michael Salisbury  Match Report                                                NaN
+16  2024-12-14  15:00  Premier League         Matchweek 16  Sat  ...   4-2-3-1         3-4-3       Simon Hooper  Match Report                                                NaN
+17  2024-12-21  15:00  Premier League         Matchweek 17  Sat  ...   4-2-3-1         4-3-3     Stuart Attwell  Match Report                                                NaN
+18  2024-12-27  20:15  Premier League         Matchweek 18  Fri  ...     5-4-1         4-3-3     Darren England  Match Report                                                NaN
+19  2024-12-30  19:45  Premier League         Matchweek 19  Mon  ...     5-4-1       4-2-3-1        John Brooks  Match Report                                                NaN
+20  2025-01-05  14:00  Premier League         Matchweek 20  Sun  ...     5-4-1         3-4-3        Darren Bond  Match Report                                                NaN
+21  2025-01-12  15:00          FA Cup   Third round proper  Sun  ...   4-2-3-1       4-2-3-1    Oliver Langford  Match Report                                                NaN
+22  2025-01-16  19:30  Premier League         Matchweek 21  Thu  ...   4-2-3-1       4-1-4-1    Tony Harrington  Match Report                                                NaN
+23  2025-01-19  16:30  Premier League         Matchweek 22  Sun  ...     5-4-1       4-2-3-1     Samuel Barrott  Match Report                                                NaN
+24  2025-01-25  15:00  Premier League         Matchweek 23  Sat  ...   4-2-3-1       4-2-3-1  Michael Salisbury  Match Report                                                NaN
+25  2025-02-01  15:00  Premier League         Matchweek 24  Sat  ...   4-2-3-1         3-4-3     Michael Oliver  Match Report                                                NaN
+26  2025-02-08  15:00          FA Cup  Fourth round proper  Sat  ...   4-2-3-1         5-4-1          Ben Toner  Match Report                                                NaN
+27  2025-02-15  15:00  Premier League         Matchweek 25  Sat  ...   4-2-3-1       4-2-3-1       Robert Jones  Match Report                                                NaN
+28  2025-02-22  15:00  Premier League         Matchweek 26  Sat  ...   4-2-3-1         4-3-3       Tim Robinson  Match Report                                                NaN
+29  2025-02-26  19:30  Premier League         Matchweek 27  Wed  ...     3-4-3         3-4-3     Darren England  Match Report                                                NaN
+30  2025-03-03  19:30          FA Cup   Fifth round proper  Mon  ...   4-2-3-1       4-2-3-1    Tony Harrington  Match Report  Nott'ham Forest won on penalty kicks following...
+31  2025-03-08  15:00  Premier League         Matchweek 28  Sat  ...   4-2-3-1         3-4-3       Simon Hooper  Match Report                                                NaN
+32  2025-03-15  15:00  Premier League         Matchweek 29  Sat  ...   4-2-3-1       4-2-3-1  Michael Salisbury  Match Report                                                NaN
+33  2025-04-02  19:45  Premier League         Matchweek 30  Wed  ...   4-2-3-1       4-2-3-1       Robert Jones  Match Report                                                NaN
+34  2025-04-05  15:00  Premier League         Matchweek 31  Sat  ...   4-2-3-1         3-4-3       Peter Bankes  Match Report                                                NaN
+35  2025-04-13  14:00  Premier League         Matchweek 32  Sun  ...   4-2-3-1       4-2-3-1     Stuart Attwell  Match Report                                                NaN
+36  2025-04-20  14:00  Premier League         Matchweek 33  Sun  ...   4-4-1-1         4-3-3     Chris Kavanagh  Match Report                                                NaN
+37  2025-04-26  15:00  Premier League         Matchweek 34  Sat  ...   4-4-1-1         4-3-3  Michael Salisbury  Match Report                                                NaN
+38  2025-05-03  15:00  Premier League         Matchweek 35  Sat  ...   4-2-3-1       4-2-3-1        Lewis Smith  Match Report                                                NaN
+39  2025-05-10  15:00  Premier League         Matchweek 36  Sat  ...   4-2-3-1       4-2-3-1     Samuel Barrott  Match Report                                                NaN
+40  2025-05-18  15:00  Premier League         Matchweek 37  Sun  ...       NaN           NaN                NaN  Head-to-Head                                                NaN
+41  2025-05-25  16:00  Premier League         Matchweek 38  Sun  ...       NaN           NaN                NaN  Head-to-Head                                                NaN
+
+[42 rows x 20 columns]>

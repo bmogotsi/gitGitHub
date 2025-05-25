@@ -1,0 +1,30 @@
+http://www.example.com/page1
+http://www.example.com/page3
+http://www.example.com/page4
+
+
+
+
+
+   
+Leveraging CSS Selector Optimization select "/product/"
+
+
+ 
+http://www.example.com/product/triangle
+http://www.example.com/product/square
+http://www.example.com/product/trapezoid
+
+
+
+
+
+   
+Scoping and Limiting Parse Area
+
+
+ 
+http://www.example.comhttp://www.example.com/page3
+http://www.example.comhttp://www.example.com/page4
+http://www.example.com/product/triangle
+http://www.example.com/product/trapezoid

@@ -1,0 +1,768 @@
+[][<a href="/"><img alt="PSL" class="header-mobile__logo-img" src="assets/images/logo-mobile.png" srcset="assets/images/logo-mobile@2x.png 2x"/></a>, <a class="burger-menu-icon" href="#" id="header-mobile__toggle" onclick="return false"><span class="burger-menu-icon__line"></span></a>, <a class="social-links__link" data-placement="bottom" data-toggle="tooltip" href="https://www.facebook.com/OfficialPSL/" target="_blank" title="Facebook"><i class="fa fa-facebook"></i></a>, <a class="social-links__link" data-placement="bottom" data-toggle="tooltip" href="https://twitter.com/officialpsl/" target="_blank" title="Twitter"><i class="fa fa-twitter"></i></a>, <a href="/MatchCentre" id="quick-link-live-games" style="display:none">
+<li class="info-block__item info-block__item--contact-primary">
+<div class="info-block__item_image"><img alt="" src="https://www.psl.co.za/newpsl/images/content/quick-link-live-games.gif"/></div>
+</li>
+</a>, <a class="header-club-logos_inner" href="/club/AmaZulu_FC?league=betway-premiership">
+<div class="header-club-logos_logo"> <img src="https://www.psl.co.za/newpsl/images/clublogos/small/AmaZulu FC.png"/></div>
+<div class="header-club-logos_name">AmaZulu FC</div>
+</a>, <a class="header-club-logos_inner" href="/club/Cape_Town_City_FC?league=betway-premiership">
+<div class="header-club-logos_logo"> <img src="https://www.psl.co.za/newpsl/images/clublogos/small/Cape Town City FC.png"/></div>
+<div class="header-club-logos_name">Cape Town City FC</div>
+</a>, <a class="header-club-logos_inner" href="/club/Chippa_United?league=betway-premiership">
+<div class="header-club-logos_logo"> <img src="https://www.psl.co.za/newpsl/images/clublogos/small/Chippa United.png"/></div>
+<div class="header-club-logos_name">Chippa United</div>
+</a>, <a class="header-club-logos_inner" href="/club/Golden_Arrows?league=betway-premiership">
+<div class="header-club-logos_logo"> <img src="https://www.psl.co.za/newpsl/images/clublogos/small/Golden Arrows.png"/></div>
+<div class="header-club-logos_name">Golden Arrows</div>
+</a>, <a class="header-club-logos_inner" href="/club/Kaizer_Chiefs?league=betway-premiership">
+<div class="header-club-logos_logo"> <img src="https://www.psl.co.za/newpsl/images/clublogos/small/Kaizer Chiefs.png"/></div>
+<div class="header-club-logos_name">Kaizer Chiefs</div>
+</a>, <a class="header-club-logos_inner" href="/club/Magesi_FC?league=betway-premiership">
+<div class="header-club-logos_logo"> <img src="https://www.psl.co.za/newpsl/images/clublogos/small/Magesi FC.png"/></div>
+<div class="header-club-logos_name">Magesi FC</div>
+</a>, <a class="header-club-logos_inner" href="/club/Mamelodi_Sundowns?league=betway-premiership">
+<div class="header-club-logos_logo"> <img src="https://www.psl.co.za/newpsl/images/clublogos/small/Mamelodi Sundowns.png"/></div>
+<div class="header-club-logos_name">Mamelodi Sundowns</div>
+</a>, <a class="header-club-logos_inner" href="/club/Marumo_Gallants_FC?league=betway-premiership">
+<div class="header-club-logos_logo"> <img src="https://www.psl.co.za/newpsl/images/clublogos/small/Marumo Gallants FC.png"/></div>
+<div class="header-club-logos_name">Marumo Gallants FC</div>
+</a>, <a class="header-club-logos_inner" href="/club/Orlando_Pirates?league=betway-premiership">
+<div class="header-club-logos_logo"> <img src="https://www.psl.co.za/newpsl/images/clublogos/small/Orlando Pirates.png"/></div>
+<div class="header-club-logos_name">Orlando Pirates</div>
+</a>, <a class="header-club-logos_inner" href="/club/Polokwane_City?league=betway-premiership">
+<div class="header-club-logos_logo"> <img src="https://www.psl.co.za/newpsl/images/clublogos/small/Polokwane City.png"/></div>
+<div class="header-club-logos_name">Polokwane City</div>
+</a>, <a class="header-club-logos_inner" href="/club/Richards_Bay?league=betway-premiership">
+<div class="header-club-logos_logo"> <img src="https://www.psl.co.za/newpsl/images/clublogos/small/Richards Bay.png"/></div>
+<div class="header-club-logos_name">Richards Bay</div>
+</a>, <a class="header-club-logos_inner" href="/club/Royal_AM?league=betway-premiership">
+<div class="header-club-logos_logo"> <img src="https://www.psl.co.za/newpsl/images/clublogos/small/Royal AM.png"/></div>
+<div class="header-club-logos_name">Royal AM</div>
+</a>, <a class="header-club-logos_inner" href="/club/Sekhukhune_United?league=betway-premiership">
+<div class="header-club-logos_logo"> <img src="https://www.psl.co.za/newpsl/images/clublogos/small/Sekhukhune United.png"/></div>
+<div class="header-club-logos_name">Sekhukhune United</div>
+</a>, <a class="header-club-logos_inner" href="/club/Stellenbosch_FC?league=betway-premiership">
+<div class="header-club-logos_logo"> <img src="https://www.psl.co.za/newpsl/images/clublogos/small/Stellenbosch FC.png"/></div>
+<div class="header-club-logos_name">Stellenbosch FC</div>
+</a>, <a class="header-club-logos_inner" href="/club/SuperSport_United?league=betway-premiership">
+<div class="header-club-logos_logo"> <img src="https://www.psl.co.za/newpsl/images/clublogos/small/SuperSport United.png"/></div>
+<div class="header-club-logos_name">SuperSport United</div>
+</a>, <a class="header-club-logos_inner" href="/club/TS_Galaxy?league=betway-premiership">
+<div class="header-club-logos_logo"> <img src="https://www.psl.co.za/newpsl/images/clublogos/small/TS Galaxy.png"/></div>
+<div class="header-club-logos_name">TS Galaxy</div>
+</a>, <a href="/"><img alt="PSL" class="header-logo__img" src="assets/images/logo.png" srcset="assets/images/logo@2x.png 2x"/></a>, <a href="/" id="Home">Home</a>, <a href="/news" id="News">News</a>, <a class="main-nav__toggle mobile-drop-down-menu-click hidden-md hidden-lg hidden-xl" href="/Tournament" id="Tournaments" onclick="return false">Tournaments</a>, <a class="hidden-xs hidden-sm" href="/Tournament" id="Tournaments" onclick="return false">Tournaments</a>, <a href="/tournament/betway-premiership">Betway Premiership</a>, <a href="/tournament/national-first-division">Motsepe Foundation Championship</a>, <a href="/tournament/mtn8">MTN8</a>, <a href="/tournament/carling-knockout">Carling Knockout</a>, <a href="/tournament/dstv-diski-challenge">Diski Challenge</a>, <a href="/tournament/promotion-playoffs">PSL Promotion Playoffs</a>, <a href="/tournament/dstv-compact-cup">DStv Compact Cup</a>, <a href="/tournament/nedbank-cup">Nedbank Cup</a>, <a class="main-nav__toggle mobile-drop-down-menu-click hidden-md hidden-lg hidden-xl" href="/MatchCentre" id="Match Centre" onclick="return false">Match Centre</a>, <a class="hidden-xs hidden-sm" href="/MatchCentre" id="Match Centre" onclick="return false">Match Centre</a>, <a href="\matchcentre?type=results">Results</a>, <a href="\matchcentre?type=fixtures">Fixtures</a>, <a href="\matchcentre?type=log">Table</a>, <a href="\matchcentre?type=live">Live</a>, <a href="/videos" id="Videos">Videos</a>, <a href="/photo" id="Photos">Photos</a>, <a class="main-nav__toggle mobile-drop-down-menu-click hidden-md hidden-lg hidden-xl" href="/Club" id="Clubs" onclick="return false">Clubs</a>, <a class="hidden-xs hidden-sm" href="/Club" id="Clubs" onclick="return false">Clubs</a>, <a href="/club/AmaZulu_FC?league=betway-premiership">
+<img class="club_dropdown_logos" src="https://www.psl.co.za/newpsl/images/clublogos/small/AmaZulu FC.png">  AmaZulu FC
+
+                                                                        </img></a>, <a href="/club/Cape_Town_City_FC?league=betway-premiership">
+<img class="club_dropdown_logos" src="https://www.psl.co.za/newpsl/images/clublogos/small/Cape Town City FC.png"/>  Cape Town City FC
+
+                                                                        </a>, <a href="/club/Chippa_United?league=betway-premiership">
+<img class="club_dropdown_logos" src="https://www.psl.co.za/newpsl/images/clublogos/small/Chippa United.png"/>  Chippa United
+
+                                                                        </a>, <a href="/club/Golden_Arrows?league=betway-premiership">
+<img class="club_dropdown_logos" src="https://www.psl.co.za/newpsl/images/clublogos/small/Golden Arrows.png"/>  Golden Arrows
+
+                                                                        </a>, <a href="/club/Kaizer_Chiefs?league=betway-premiership">
+<img class="club_dropdown_logos" src="https://www.psl.co.za/newpsl/images/clublogos/small/Kaizer Chiefs.png"/>  Kaizer Chiefs
+
+                                                                        </a>, <a href="/club/Magesi_FC?league=betway-premiership">
+<img class="club_dropdown_logos" src="https://www.psl.co.za/newpsl/images/clublogos/small/Magesi FC.png"/>  Magesi FC
+
+                                                                        </a>, <a href="/club/Mamelodi_Sundowns?league=betway-premiership">
+<img class="club_dropdown_logos" src="https://www.psl.co.za/newpsl/images/clublogos/small/Mamelodi Sundowns.png"/>  Mamelodi Sundowns
+
+                                                                        </a>, <a href="/club/Marumo_Gallants_FC?league=betway-premiership">
+<img class="club_dropdown_logos" src="https://www.psl.co.za/newpsl/images/clublogos/small/Marumo Gallants FC.png"/>  Marumo Gallants FC
+
+                                                                        </a>, <a href="/club/Orlando_Pirates?league=betway-premiership">
+<img class="club_dropdown_logos" src="https://www.psl.co.za/newpsl/images/clublogos/small/Orlando Pirates.png"/>  Orlando Pirates
+
+                                                                        </a>, <a href="/club/Polokwane_City?league=betway-premiership">
+<img class="club_dropdown_logos" src="https://www.psl.co.za/newpsl/images/clublogos/small/Polokwane City.png"/>  Polokwane City
+
+                                                                        </a>, <a href="/club/Richards_Bay?league=betway-premiership">
+<img class="club_dropdown_logos" src="https://www.psl.co.za/newpsl/images/clublogos/small/Richards Bay.png"/>  Richards Bay
+
+                                                                        </a>, <a href="/club/Royal_AM?league=betway-premiership">
+<img class="club_dropdown_logos" src="https://www.psl.co.za/newpsl/images/clublogos/small/Royal AM.png"/>  Royal AM
+
+                                                                        </a>, <a href="/club/Sekhukhune_United?league=betway-premiership">
+<img class="club_dropdown_logos" src="https://www.psl.co.za/newpsl/images/clublogos/small/Sekhukhune United.png"/>  Sekhukhune United
+
+                                                                        </a>, <a href="/club/Stellenbosch_FC?league=betway-premiership">
+<img class="club_dropdown_logos" src="https://www.psl.co.za/newpsl/images/clublogos/small/Stellenbosch FC.png"/>  Stellenbosch FC
+
+                                                                        </a>, <a href="/club/SuperSport_United?league=betway-premiership">
+<img class="club_dropdown_logos" src="https://www.psl.co.za/newpsl/images/clublogos/small/SuperSport United.png"/>  SuperSport United
+
+                                                                        </a>, <a href="/club/TS_Galaxy?league=betway-premiership">
+<img class="club_dropdown_logos" src="https://www.psl.co.za/newpsl/images/clublogos/small/TS Galaxy.png"/>  TS Galaxy
+
+                                                                        </a>, <a href="/club/Baroka%20FC?league=national-first-division">
+<img class="club_dropdown_logos" src="https://www.psl.co.za/newpsl/images/clublogos/small/Baroka FC.png"/>  Baroka FC
+
+                                                                        </a>, <a href="/club/Black%20Leopards?league=national-first-division">
+<img class="club_dropdown_logos" src="https://www.psl.co.za/newpsl/images/clublogos/small/Black Leopards.png"/>  Black Leopards
+
+                                                                        </a>, <a href="/club/Cape%20Town%20Spurs?league=national-first-division">
+<img class="club_dropdown_logos" src="https://www.psl.co.za/newpsl/images/clublogos/small/Cape Town Spurs.png"/>  Cape Town Spurs
+
+                                                                        </a>, <a href="/club/Casric%20Stars?league=national-first-division">
+<img class="club_dropdown_logos" src="https://www.psl.co.za/newpsl/images/clublogos/small/Casric Stars.png"/>  Casric Stars
+
+                                                                        </a>, <a href="/club/Durban%20City?league=national-first-division">
+<img class="club_dropdown_logos" src="https://www.psl.co.za/newpsl/images/clublogos/small/Durban City.png"/>  Durban City
+
+                                                                        </a>, <a href="/club/Highbury?league=national-first-division">
+<img class="club_dropdown_logos" src="https://www.psl.co.za/newpsl/images/clublogos/small/Highbury.png"/>  Highbury
+
+                                                                        </a>, <a href="/club/Hungry%20Lions%20FC?league=national-first-division">
+<img class="club_dropdown_logos" src="https://www.psl.co.za/newpsl/images/clublogos/small/Hungry Lions FC.png"/>  Hungry Lions FC
+
+                                                                        </a>, <a href="/club/JDR%20Stars?league=national-first-division">
+<img class="club_dropdown_logos" src="https://www.psl.co.za/newpsl/images/clublogos/small/JDR Stars.png"/>  JDR Stars
+
+                                                                        </a>, <a href="/club/Kruger%20United?league=national-first-division">
+<img class="club_dropdown_logos" src="https://www.psl.co.za/newpsl/images/clublogos/small/Kruger United.png"/>  Kruger United
+
+                                                                        </a>, <a href="/club/Leruma%20United?league=national-first-division">
+<img class="club_dropdown_logos" src="https://www.psl.co.za/newpsl/images/clublogos/small/Leruma United.png"/>  Leruma United
+
+                                                                        </a>, <a href="/club/Milford?league=national-first-division">
+<img class="club_dropdown_logos" src="https://www.psl.co.za/newpsl/images/clublogos/small/Milford.png"/>  Milford
+
+                                                                        </a>, <a href="/club/Orbit%20College%20FC?league=national-first-division">
+<img class="club_dropdown_logos" src="https://www.psl.co.za/newpsl/images/clublogos/small/Orbit College FC.png"/>  Orbit College FC
+
+                                                                        </a>, <a href="/club/Pretoria%20Caillies%20FC?league=national-first-division">
+<img class="club_dropdown_logos" src="https://www.psl.co.za/newpsl/images/clublogos/small/Pretoria Caillies FC.png"/>  Pretoria Caillies FC
+
+                                                                        </a>, <a href="/club/Pretoria%20University%20FC?league=national-first-division">
+<img class="club_dropdown_logos" src="https://www.psl.co.za/newpsl/images/clublogos/small/Pretoria University FC.png"/>  Pretoria University FC
+
+                                                                        </a>, <a href="/club/Upington%20City?league=national-first-division">
+<img class="club_dropdown_logos" src="https://www.psl.co.za/newpsl/images/clublogos/small/Upington City.png"/>  Upington City
+
+                                                                        </a>, <a href="/club/Venda%20FC?league=national-first-division">
+<img class="club_dropdown_logos" src="https://www.psl.co.za/newpsl/images/clublogos/small/Venda FC.png"/>  Venda FC
+
+                                                                        </a>, <a href="/content/5488" id="About">About</a>, <a class="btn btn-default btn-outline btn-xs card-header__button" href="/content/125534">About the Betway Premiership</a>, <a href="#"><img alt="" class="img-responsive" onclick="return false;" src="https://www.psl.co.za/newpsl/images/tournamentlogos/large/betway-premiership.jpg"/></a>, <a class="btn btn-default btn-outline btn-xs card-header__button" href="/matchcentre?tournament=betway-premiership">View all</a>, <a aria-controls="widget-tabbed-fixtures" data-toggle="tab" href="#widget-tabbed-fixtures" id="widget-tabbed-fixtures-tab" role="tab">Fixtures</a>, <a aria-controls="widget-tabbed-results" data-toggle="tab" href="#widget-tabbed-results" id="widget-tabbed-results-tab" role="tab">Results</a>, <a aria-controls="widget-tabbed-live" data-toggle="tab" href="#widget-tabbed-live" id="widget-tabbed-live-tab" role="tab">Live</a>, <a class="btn btn-primary-inverse btn-xs card-header__button" href="/matchcentre/detail/2481490-magesi-fc-vs-ts-galaxy">
+<span class="buttons-desktop-only">Match Summary</span>
+<span class="buttons-mobile-only"><i class="fa fa-plus"></i></span>
+</a>, <a class="btn btn-primary-inverse btn-xs card-header__button" href="/matchcentre/detail/2481486-chippa-united-vs-kaizer-chiefs">
+<span class="buttons-desktop-only">Match Summary</span>
+<span class="buttons-mobile-only"><i class="fa fa-plus"></i></span>
+</a>, <a class="btn btn-primary-inverse btn-xs card-header__button" href="/matchcentre/detail/2481488-sekhukhune-united-vs-polokwane-city">
+<span class="buttons-desktop-only">Match Summary</span>
+<span class="buttons-mobile-only"><i class="fa fa-plus"></i></span>
+</a>, <a class="btn btn-primary-inverse btn-xs card-header__button" href="/matchcentre/detail/2481487-marumo-gallants-fc-vs-golden-arrows">
+<span class="buttons-desktop-only">Match Summary</span>
+<span class="buttons-mobile-only"><i class="fa fa-plus"></i></span>
+</a>, <a class="btn btn-primary-inverse btn-xs card-header__button" href="/matchcentre/detail/2481484-richards-bay-vs-cape-town-city-fc">
+<span class="buttons-desktop-only">Match Summary</span>
+<span class="buttons-mobile-only"><i class="fa fa-plus"></i></span>
+</a>, <a class="btn btn-default btn-outline btn-xs card-header__button" href="/news?leaqueName=betway-premiership">View all News</a>, <a href="/news/article/5610784-magesi-win-sixth-straight-home-match">
+<img alt="" src="https://images.supersport.com/2025/4/ma3.jpg"/>
+</a>, <a href="/news/article/5610784-magesi-win-sixth-straight-home-match">Magesi win sixth straight home match in South Africa</a>, <a href="/news/article/5610774-chippa-chiefs-play-to-stalemate-in-to">
+<img alt="" src="https://images.supersport.com/2025/4/pa2.jpg"/>
+</a>, <a href="/news/article/5610774-chippa-chiefs-play-to-stalemate-in-to">Chippa, Chiefs play to stalemate in top-eight chase</a>, <a href="/news/article/5610764-babina-noko-claim-bragging-rights-in">
+<img alt="" src="https://images.supersport.com/2025/4/khun2.jpg"/>
+</a>, <a href="/news/article/5610764-babina-noko-claim-bragging-rights-in">Babina Noko claim bragging rights in Polokwane Derby</a>, <a href="/news/article/5610754-penalty-earns-arrows-point-against-ga">
+<img alt="" src="https://images.supersport.com/2025/4/maru2.jpg"/>
+</a>, <a href="/news/article/5610754-penalty-earns-arrows-point-against-ga">Penalty earns Arrows point against Gallants</a>, <a href="/news/article/5610744-gumede-strikes-late-to-hand-richards">
+<img alt="" src="https://images.supersport.com/2025/4/Thulani-Gumede-celebrates-25-04-G-400.jpg"/>
+</a>, <a href="/news/article/5610744-gumede-strikes-late-to-hand-richards">Gumede strikes late to hand Richards Bay win over CT City </a>, <a href="/club/Mamelodi_Sundowns?league=betway-premiership">
+<div class="team-meta__info">
+<h5 class="team-meta__name">1   </h5>
+</div>
+<figure class="team-meta__logo">
+<img alt="Mamelodi Sundowns" onerror="this.src='https://www.psl.co.za/newpsl/images/clublogos/noclublogo.png';" src="https://www.psl.co.za/newpsl/images/clublogos/Mamelodi Sundowns.png"/>
+</figure>
+<div class="team-meta__info">
+<h6 class="team-meta__name">Mamelodi Sundowns</h6>
+</div>
+</a>, <a href="/club/Orlando_Pirates?league=betway-premiership">
+<div class="team-meta__info">
+<h5 class="team-meta__name">2   </h5>
+</div>
+<figure class="team-meta__logo">
+<img alt="Orlando Pirates" onerror="this.src='https://www.psl.co.za/newpsl/images/clublogos/noclublogo.png';" src="https://www.psl.co.za/newpsl/images/clublogos/Orlando Pirates.png"/>
+</figure>
+<div class="team-meta__info">
+<h6 class="team-meta__name">Orlando Pirates</h6>
+</div>
+</a>, <a href="/club/Sekhukhune_United?league=betway-premiership">
+<div class="team-meta__info">
+<h5 class="team-meta__name">3   </h5>
+</div>
+<figure class="team-meta__logo">
+<img alt="Sekhukhune United" onerror="this.src='https://www.psl.co.za/newpsl/images/clublogos/noclublogo.png';" src="https://www.psl.co.za/newpsl/images/clublogos/Sekhukhune United.png"/>
+</figure>
+<div class="team-meta__info">
+<h6 class="team-meta__name">Sekhukhune United</h6>
+</div>
+</a>, <a href="/club/Stellenbosch_FC?league=betway-premiership">
+<div class="team-meta__info">
+<h5 class="team-meta__name">4   </h5>
+</div>
+<figure class="team-meta__logo">
+<img alt="Stellenbosch FC" onerror="this.src='https://www.psl.co.za/newpsl/images/clublogos/noclublogo.png';" src="https://www.psl.co.za/newpsl/images/clublogos/Stellenbosch FC.png"/>
+</figure>
+<div class="team-meta__info">
+<h6 class="team-meta__name">Stellenbosch FC</h6>
+</div>
+</a>, <a href="/club/TS_Galaxy?league=betway-premiership">
+<div class="team-meta__info">
+<h5 class="team-meta__name">5   </h5>
+</div>
+<figure class="team-meta__logo">
+<img alt="TS Galaxy" onerror="this.src='https://www.psl.co.za/newpsl/images/clublogos/noclublogo.png';" src="https://www.psl.co.za/newpsl/images/clublogos/TS Galaxy.png"/>
+</figure>
+<div class="team-meta__info">
+<h6 class="team-meta__name">TS Galaxy</h6>
+</div>
+</a>, <a href="/club/Polokwane_City?league=betway-premiership">
+<div class="team-meta__info">
+<h5 class="team-meta__name">6   </h5>
+</div>
+<figure class="team-meta__logo">
+<img alt="Polokwane City" onerror="this.src='https://www.psl.co.za/newpsl/images/clublogos/noclublogo.png';" src="https://www.psl.co.za/newpsl/images/clublogos/Polokwane City.png"/>
+</figure>
+<div class="team-meta__info">
+<h6 class="team-meta__name">Polokwane City</h6>
+</div>
+</a>, <a href="/club/AmaZulu_FC?league=betway-premiership">
+<div class="team-meta__info">
+<h5 class="team-meta__name">7   </h5>
+</div>
+<figure class="team-meta__logo">
+<img alt="AmaZulu FC" onerror="this.src='https://www.psl.co.za/newpsl/images/clublogos/noclublogo.png';" src="https://www.psl.co.za/newpsl/images/clublogos/AmaZulu FC.png"/>
+</figure>
+<div class="team-meta__info">
+<h6 class="team-meta__name">AmaZulu FC</h6>
+</div>
+</a>, <a href="/club/Kaizer_Chiefs?league=betway-premiership">
+<div class="team-meta__info">
+<h5 class="team-meta__name">8   </h5>
+</div>
+<figure class="team-meta__logo">
+<img alt="Kaizer Chiefs" onerror="this.src='https://www.psl.co.za/newpsl/images/clublogos/noclublogo.png';" src="https://www.psl.co.za/newpsl/images/clublogos/Kaizer Chiefs.png"/>
+</figure>
+<div class="team-meta__info">
+<h6 class="team-meta__name">Kaizer Chiefs</h6>
+</div>
+</a>, <a href="/club/Chippa_United?league=betway-premiership">
+<div class="team-meta__info">
+<h5 class="team-meta__name">9   </h5>
+</div>
+<figure class="team-meta__logo">
+<img alt="Chippa United" onerror="this.src='https://www.psl.co.za/newpsl/images/clublogos/noclublogo.png';" src="https://www.psl.co.za/newpsl/images/clublogos/Chippa United.png"/>
+</figure>
+<div class="team-meta__info">
+<h6 class="team-meta__name">Chippa United</h6>
+</div>
+</a>, <a href="/club/Golden_Arrows?league=betway-premiership">
+<div class="team-meta__info">
+<h5 class="team-meta__name">10   </h5>
+</div>
+<figure class="team-meta__logo">
+<img alt="Golden Arrows" onerror="this.src='https://www.psl.co.za/newpsl/images/clublogos/noclublogo.png';" src="https://www.psl.co.za/newpsl/images/clublogos/Golden Arrows.png"/>
+</figure>
+<div class="team-meta__info">
+<h6 class="team-meta__name">Golden Arrows</h6>
+</div>
+</a>, <a href="/club/Magesi_FC?league=betway-premiership">
+<div class="team-meta__info">
+<h5 class="team-meta__name">11   </h5>
+</div>
+<figure class="team-meta__logo">
+<img alt="Magesi FC" onerror="this.src='https://www.psl.co.za/newpsl/images/clublogos/noclublogo.png';" src="https://www.psl.co.za/newpsl/images/clublogos/Magesi FC.png"/>
+</figure>
+<div class="team-meta__info">
+<h6 class="team-meta__name">Magesi FC</h6>
+</div>
+</a>, <a href="/club/Richards_Bay?league=betway-premiership">
+<div class="team-meta__info">
+<h5 class="team-meta__name">12   </h5>
+</div>
+<figure class="team-meta__logo">
+<img alt="Richards Bay" onerror="this.src='https://www.psl.co.za/newpsl/images/clublogos/noclublogo.png';" src="https://www.psl.co.za/newpsl/images/clublogos/Richards Bay.png"/>
+</figure>
+<div class="team-meta__info">
+<h6 class="team-meta__name">Richards Bay</h6>
+</div>
+</a>, <a href="/club/Marumo_Gallants_FC?league=betway-premiership">
+<div class="team-meta__info">
+<h5 class="team-meta__name">13   </h5>
+</div>
+<figure class="team-meta__logo">
+<img alt="Marumo Gallants FC" onerror="this.src='https://www.psl.co.za/newpsl/images/clublogos/noclublogo.png';" src="https://www.psl.co.za/newpsl/images/clublogos/Marumo Gallants FC.png"/>
+</figure>
+<div class="team-meta__info">
+<h6 class="team-meta__name">Marumo Gallants FC</h6>
+</div>
+</a>, <a href="/club/Cape_Town_City_FC?league=betway-premiership">
+<div class="team-meta__info">
+<h5 class="team-meta__name">14   </h5>
+</div>
+<figure class="team-meta__logo">
+<img alt="Cape Town City FC" onerror="this.src='https://www.psl.co.za/newpsl/images/clublogos/noclublogo.png';" src="https://www.psl.co.za/newpsl/images/clublogos/Cape Town City FC.png"/>
+</figure>
+<div class="team-meta__info">
+<h6 class="team-meta__name">Cape Town City FC</h6>
+</div>
+</a>, <a href="/club/SuperSport_United?league=betway-premiership">
+<div class="team-meta__info">
+<h5 class="team-meta__name">15   </h5>
+</div>
+<figure class="team-meta__logo">
+<img alt="SuperSport United" onerror="this.src='https://www.psl.co.za/newpsl/images/clublogos/noclublogo.png';" src="https://www.psl.co.za/newpsl/images/clublogos/SuperSport United.png"/>
+</figure>
+<div class="team-meta__info">
+<h6 class="team-meta__name">SuperSport United</h6>
+</div>
+</a>, <a href="/club/Royal_AM?league=betway-premiership">
+<div class="team-meta__info">
+<h5 class="team-meta__name">16   </h5>
+</div>
+<figure class="team-meta__logo">
+<img alt="Royal AM" onerror="this.src='https://www.psl.co.za/newpsl/images/clublogos/noclublogo.png';" src="https://www.psl.co.za/newpsl/images/clublogos/Royal AM.png"/>
+</figure>
+<div class="team-meta__info">
+<h6 class="team-meta__name">Royal AM</h6>
+</div>
+</a>, <a class="btn btn-default btn-outline btn-xs card-header__button" href="/videos?tournament=betway-premiership">View all Videos</a>, <a class="posts__link-wrapper videoPlayer" data-show-related-videos="true" data-videoid="1460534" onclick="return false;">
+<figure class="posts__thumb">
+<img alt="" src="http://supersport-img.azureedge.net/videoimages/2025/4/SOC_200425_PSL_MAGVTSG_P.png"/>
+</figure>
+<div class="posts__inner">
+<h3 class="posts__title">Magesi FC v TS Galaxy | Extended Highlights | Premier Soccer League</h3>
+<time class="posts__date" datetime="2017-08-28"> 20 Apr 2025</time>
+</div>
+</a>, <a class="posts__link-wrapper videoPlayer" data-show-related-videos="true" data-videoid="1460444" onclick="return false;">
+<figure class="posts__thumb">
+<img alt="" src="http://supersport-img.azureedge.net/videoimages/2025/4/SOC_190425_PSL_CUVCHI_HD10_500KP.jpeg"/>
+</figure>
+<div class="posts__inner">
+<h3 class="posts__title">Chippa v Chiefs | Extended Highlights | Premier Soccer League</h3>
+<time class="posts__date" datetime="2017-08-28"> 19 Apr 2025</time>
+</div>
+</a>, <a class="posts__link-wrapper videoPlayer" data-show-related-videos="true" data-videoid="1460394" onclick="return false;">
+<figure class="posts__thumb">
+<img alt="" src="http://supersport-img.azureedge.net/videoimages/2025/4/SOC_190425_PSL_MGVGA_P.png"/>
+</figure>
+<div class="posts__inner">
+<h3 class="posts__title">Marumo Gallants v Golden Arrows | Extended Highlights | Premier Soccer League</h3>
+<time class="posts__date" datetime="2017-08-28"> 19 Apr 2025</time>
+</div>
+</a>, <a class="posts__link-wrapper videoPlayer" data-show-related-videos="true" data-videoid="1460264" onclick="return false;">
+<figure class="posts__thumb">
+<img alt="" src="http://supersport-img.azureedge.net/videoimages/2025/4/SOC_180425_PSL_RBFCVCTC_HD10_YouTube.jpeg"/>
+</figure>
+<div class="posts__inner">
+<h3 class="posts__title">Richards Bay v Cape Town City | Extended Highlights | Premier Soccer League</h3>
+<time class="posts__date" datetime="2017-08-28"> 18 Apr 2025</time>
+</div>
+</a>, <a class="posts__link-wrapper videoPlayer" data-show-related-videos="true" data-videoid="1460014" onclick="return false;">
+<figure class="posts__thumb">
+<img alt="" src="http://supersport-img.azureedge.net/videoimages/2025/4/goals.png"/>
+</figure>
+<div class="posts__inner">
+<h3 class="posts__title">Top 5 Goals | March</h3>
+<time class="posts__date" datetime="2017-08-28"> 16 Apr 2025</time>
+</div>
+</a>, <a class="posts__link-wrapper videoPlayer" data-show-related-videos="true" data-videoid="1459964" onclick="return false;">
+<figure class="posts__thumb">
+<img alt="" src="http://supersport-img.azureedge.net/videoimages/2025/4/SOC_150425_PSL_SFCVAMA_p.png"/>
+</figure>
+<div class="posts__inner">
+<h3 class="posts__title">Stellenbosch FC v AmaZulu | Extended Highlights | Premier Soccer League</h3>
+<time class="posts__date" datetime="2017-08-28"> 15 Apr 2025</time>
+</div>
+</a>, <a href="https://www.betway.co.za" target="_blank"><img alt="Betway" src="https://psl.co.za/newpsl/images/sponsors/betway-premiership-sponsor.jpg"/></a>, <a href="https://www.nedbank.co.za" target="_blank"><img alt="Nedbank" src="https://psl.co.za/newpsl/images/sponsors/nedbank.png"/></a>, <a href="https://www.mtn.co.za" target="_blank"><img alt="MTN" src="https://images.supersport.com/content/mtn_logo_150x75.png"/></a>, <a href="https://www.carlingblacklabel.co.za" target="_blank"><img alt="Carling Black Label" src="https://psl.co.za/newpsl/images/sponsors/Carling.PNG"/></a>, <a href="/tournament/betway-premiership">Betway Premiership</a>, <a href="/tournament/national-first-division">Motsepe Foundation Championship</a>, <a href="/tournament/nedbank-cup">Nedbank Cup</a>, <a href="/tournament/carling-knockout">Carling Knockout</a>, <a href="/tournament/dstv-diski-challenge">DStv Diski Challenge</a>, <a href="/tournament/multichoice-diski-shield">Diski Shield</a>, <a href="/tournament/dstv-compact-cup">DStv Compact Cup</a>, <a href="/tournament/mtn8">MTN8</a>, <a href="/content/5488">About</a>, <a href="https://images.supersport.com/content/PSL_NSL_Handbook_2023.pdf">NSL Handbook</a>, <a href="https://images.supersport.com/content/PROMOTION_OF_ACCESS_TO_INFOR_MANUAL.PDF">Info Access Manual</a>, <a href="/content/5480">Sponsors</a>, <a href="/content/5486">Objectives</a>, <a href="https://images.supersport.com/content/PSL_Annual_Report_2017-18.pdf">Annual Reports</a>, <a href="http://images.supersport.com/content/PSL_Matches_and_Competions_Tickets_Full_Terms_and_Conditions.pdf">Ticket Terms and Conditions</a>, <a href="/content/101801">Terms and Conditions</a>, <a href="https://images.supersport.com/content/NSL_Privacy_Policy_and_Informed_Consent_Notice_24_Oct_2024.pdf">NSL Privacy Policy and Informed Consent Notice</a>, <a href="/content/16301">Contact</a>, <a href="http://psl-portal.xpac.co.za">Media Portal</a>, <a href="https://images.supersport.com/content/MTN8-Rules-2023-2024_Season.pdf">MTN8 Rules</a>, <a href="https://images.supersport.com/content/NedbankCup-Rules2021.pdf">Nedbank Cup Rules</a>, <a href="https://images.supersport.com/2012-08-30-NSL-Rules.pdf">Motsepe Foundation Championship</a>, <a href="https://images.supersport.com/content/DStv_Diski_Challenge_Rules_November_2020.pdf">Diski Challenge Rules</a>, <a href="https://images.supersport.com/content/Carling-Knockout-Rules2023_Final_Approved_Version.pdf">Carling Knockout Rules</a>]https://psl.co.za/https://psl.co.za#https://psl.co.zahttps://www.facebook.com/OfficialPSL/https://psl.co.zahttps://twitter.com/officialpsl/https://psl.co.za/MatchCentrehttps://psl.co.za/club/AmaZulu_FC?league=betway-premiershiphttps://psl.co.za/club/Cape_Town_City_FC?league=betway-premiershiphttps://psl.co.za/club/Chippa_United?league=betway-premiershiphttps://psl.co.za/club/Golden_Arrows?league=betway-premiershiphttps://psl.co.za/club/Kaizer_Chiefs?league=betway-premiershiphttps://psl.co.za/club/Magesi_FC?league=betway-premiershiphttps://psl.co.za/club/Mamelodi_Sundowns?league=betway-premiershiphttps://psl.co.za/club/Marumo_Gallants_FC?league=betway-premiershiphttps://psl.co.za/club/Orlando_Pirates?league=betway-premiershiphttps://psl.co.za/club/Polokwane_City?league=betway-premiershiphttps://psl.co.za/club/Richards_Bay?league=betway-premiershiphttps://psl.co.za/club/Royal_AM?league=betway-premiershiphttps://psl.co.za/club/Sekhukhune_United?league=betway-premiershiphttps://psl.co.za/club/Stellenbosch_FC?league=betway-premiershiphttps://psl.co.za/club/SuperSport_United?league=betway-premiershiphttps://psl.co.za/club/TS_Galaxy?league=betway-premiershiphttps://psl.co.za/https://psl.co.za/https://psl.co.za/newshttps://psl.co.za/Tournamenthttps://psl.co.za/Tournamenthttps://psl.co.za/tournament/betway-premiershiphttps://psl.co.za/tournament/national-first-divisionhttps://psl.co.za/tournament/mtn8https://psl.co.za/tournament/carling-knockouthttps://psl.co.za/tournament/dstv-diski-challengehttps://psl.co.za/tournament/promotion-playoffshttps://psl.co.za/tournament/dstv-compact-cuphttps://psl.co.za/tournament/nedbank-cuphttps://psl.co.za/MatchCentrehttps://psl.co.za/MatchCentrehttps://psl.co.za\matchcentre?type=resultshttps://psl.co.za\matchcentre?type=fixtureshttps://psl.co.za\matchcentre?type=loghttps://psl.co.za\matchcentre?type=livehttps://psl.co.za/videoshttps://psl.co.za/photohttps://psl.co.za/Clubhttps://psl.co.za/Clubhttps://psl.co.za/club/AmaZulu_FC?league=betway-premiershiphttps://psl.co.za/club/Cape_Town_City_FC?league=betway-premiershiphttps://psl.co.za/club/Chippa_United?league=betway-premiershiphttps://psl.co.za/club/Golden_Arrows?league=betway-premiershiphttps://psl.co.za/club/Kaizer_Chiefs?league=betway-premiershiphttps://psl.co.za/club/Magesi_FC?league=betway-premiershiphttps://psl.co.za/club/Mamelodi_Sundowns?league=betway-premiershiphttps://psl.co.za/club/Marumo_Gallants_FC?league=betway-premiershiphttps://psl.co.za/club/Orlando_Pirates?league=betway-premiershiphttps://psl.co.za/club/Polokwane_City?league=betway-premiershiphttps://psl.co.za/club/Richards_Bay?league=betway-premiershiphttps://psl.co.za/club/Royal_AM?league=betway-premiershiphttps://psl.co.za/club/Sekhukhune_United?league=betway-premiershiphttps://psl.co.za/club/Stellenbosch_FC?league=betway-premiershiphttps://psl.co.za/club/SuperSport_United?league=betway-premiershiphttps://psl.co.za/club/TS_Galaxy?league=betway-premiershiphttps://psl.co.za/club/Baroka%20FC?league=national-first-divisionhttps://psl.co.za/club/Black%20Leopards?league=national-first-divisionhttps://psl.co.za/club/Cape%20Town%20Spurs?league=national-first-divisionhttps://psl.co.za/club/Casric%20Stars?league=national-first-divisionhttps://psl.co.za/club/Durban%20City?league=national-first-divisionhttps://psl.co.za/club/Highbury?league=national-first-divisionhttps://psl.co.za/club/Hungry%20Lions%20FC?league=national-first-divisionhttps://psl.co.za/club/JDR%20Stars?league=national-first-divisionhttps://psl.co.za/club/Kruger%20United?league=national-first-divisionhttps://psl.co.za/club/Leruma%20United?league=national-first-divisionhttps://psl.co.za/club/Milford?league=national-first-divisionhttps://psl.co.za/club/Orbit%20College%20FC?league=national-first-divisionhttps://psl.co.za/club/Pretoria%20Caillies%20FC?league=national-first-divisionhttps://psl.co.za/club/Pretoria%20University%20FC?league=national-first-divisionhttps://psl.co.za/club/Upington%20City?league=national-first-divisionhttps://psl.co.za/club/Venda%20FC?league=national-first-divisionhttps://psl.co.za/content/5488https://psl.co.za/content/125534https://psl.co.za#https://psl.co.za/matchcentre?tournament=betway-premiershiphttps://psl.co.za#widget-tabbed-fixtureshttps://psl.co.za#widget-tabbed-resultshttps://psl.co.za#widget-tabbed-livehttps://psl.co.za/matchcentre/detail/2481490-magesi-fc-vs-ts-galaxyhttps://psl.co.za/matchcentre/detail/2481486-chippa-united-vs-kaizer-chiefshttps://psl.co.za/matchcentre/detail/2481488-sekhukhune-united-vs-polokwane-cityhttps://psl.co.za/matchcentre/detail/2481487-marumo-gallants-fc-vs-golden-arrowshttps://psl.co.za/matchcentre/detail/2481484-richards-bay-vs-cape-town-city-fchttps://psl.co.za/news?leaqueName=betway-premiershiphttps://psl.co.za/news/article/5610784-magesi-win-sixth-straight-home-matchhttps://psl.co.za/news/article/5610784-magesi-win-sixth-straight-home-matchhttps://psl.co.za/news/article/5610774-chippa-chiefs-play-to-stalemate-in-tohttps://psl.co.za/news/article/5610774-chippa-chiefs-play-to-stalemate-in-tohttps://psl.co.za/news/article/5610764-babina-noko-claim-bragging-rights-inhttps://psl.co.za/news/article/5610764-babina-noko-claim-bragging-rights-inhttps://psl.co.za/news/article/5610754-penalty-earns-arrows-point-against-gahttps://psl.co.za/news/article/5610754-penalty-earns-arrows-point-against-gahttps://psl.co.za/news/article/5610744-gumede-strikes-late-to-hand-richardshttps://psl.co.za/news/article/5610744-gumede-strikes-late-to-hand-richardshttps://psl.co.za/club/Mamelodi_Sundowns?league=betway-premiershiphttps://psl.co.za/club/Orlando_Pirates?league=betway-premiershiphttps://psl.co.za/club/Sekhukhune_United?league=betway-premiershiphttps://psl.co.za/club/Stellenbosch_FC?league=betway-premiershiphttps://psl.co.za/club/TS_Galaxy?league=betway-premiershiphttps://psl.co.za/club/Polokwane_City?league=betway-premiershiphttps://psl.co.za/club/AmaZulu_FC?league=betway-premiershiphttps://psl.co.za/club/Kaizer_Chiefs?league=betway-premiershiphttps://psl.co.za/club/Chippa_United?league=betway-premiershiphttps://psl.co.za/club/Golden_Arrows?league=betway-premiershiphttps://psl.co.za/club/Magesi_FC?league=betway-premiershiphttps://psl.co.za/club/Richards_Bay?league=betway-premiershiphttps://psl.co.za/club/Marumo_Gallants_FC?league=betway-premiershiphttps://psl.co.za/club/Cape_Town_City_FC?league=betway-premiershiphttps://psl.co.za/club/SuperSport_United?league=betway-premiershiphttps://psl.co.za/club/Royal_AM?league=betway-premiershiphttps://psl.co.za/videos?tournament=betway-premiership[<a href="/"><img alt="PSL" class="header-mobile__logo-img" src="assets/images/logo-mobile.png" srcset="assets/images/logo-mobile@2x.png 2x"/></a>, <a class="burger-menu-icon" href="#" id="header-mobile__toggle" onclick="return false"><span class="burger-menu-icon__line"></span></a>, <a class="social-links__link" data-placement="bottom" data-toggle="tooltip" href="https://www.facebook.com/OfficialPSL/" target="_blank" title="Facebook"><i class="fa fa-facebook"></i></a>, <a class="social-links__link" data-placement="bottom" data-toggle="tooltip" href="https://twitter.com/officialpsl/" target="_blank" title="Twitter"><i class="fa fa-twitter"></i></a>, <a href="/MatchCentre" id="quick-link-live-games" style="display:none">
+<li class="info-block__item info-block__item--contact-primary">
+<div class="info-block__item_image"><img alt="" src="https://www.psl.co.za/newpsl/images/content/quick-link-live-games.gif"/></div>
+</li>
+</a>, <a class="header-club-logos_inner" href="/club/AmaZulu_FC?league=betway-premiership">
+<div class="header-club-logos_logo"> <img src="https://www.psl.co.za/newpsl/images/clublogos/small/AmaZulu FC.png"/></div>
+<div class="header-club-logos_name">AmaZulu FC</div>
+</a>, <a class="header-club-logos_inner" href="/club/Cape_Town_City_FC?league=betway-premiership">
+<div class="header-club-logos_logo"> <img src="https://www.psl.co.za/newpsl/images/clublogos/small/Cape Town City FC.png"/></div>
+<div class="header-club-logos_name">Cape Town City FC</div>
+</a>, <a class="header-club-logos_inner" href="/club/Chippa_United?league=betway-premiership">
+<div class="header-club-logos_logo"> <img src="https://www.psl.co.za/newpsl/images/clublogos/small/Chippa United.png"/></div>
+<div class="header-club-logos_name">Chippa United</div>
+</a>, <a class="header-club-logos_inner" href="/club/Golden_Arrows?league=betway-premiership">
+<div class="header-club-logos_logo"> <img src="https://www.psl.co.za/newpsl/images/clublogos/small/Golden Arrows.png"/></div>
+<div class="header-club-logos_name">Golden Arrows</div>
+</a>, <a class="header-club-logos_inner" href="/club/Kaizer_Chiefs?league=betway-premiership">
+<div class="header-club-logos_logo"> <img src="https://www.psl.co.za/newpsl/images/clublogos/small/Kaizer Chiefs.png"/></div>
+<div class="header-club-logos_name">Kaizer Chiefs</div>
+</a>, <a class="header-club-logos_inner" href="/club/Magesi_FC?league=betway-premiership">
+<div class="header-club-logos_logo"> <img src="https://www.psl.co.za/newpsl/images/clublogos/small/Magesi FC.png"/></div>
+<div class="header-club-logos_name">Magesi FC</div>
+</a>, <a class="header-club-logos_inner" href="/club/Mamelodi_Sundowns?league=betway-premiership">
+<div class="header-club-logos_logo"> <img src="https://www.psl.co.za/newpsl/images/clublogos/small/Mamelodi Sundowns.png"/></div>
+<div class="header-club-logos_name">Mamelodi Sundowns</div>
+</a>, <a class="header-club-logos_inner" href="/club/Marumo_Gallants_FC?league=betway-premiership">
+<div class="header-club-logos_logo"> <img src="https://www.psl.co.za/newpsl/images/clublogos/small/Marumo Gallants FC.png"/></div>
+<div class="header-club-logos_name">Marumo Gallants FC</div>
+</a>, <a class="header-club-logos_inner" href="/club/Orlando_Pirates?league=betway-premiership">
+<div class="header-club-logos_logo"> <img src="https://www.psl.co.za/newpsl/images/clublogos/small/Orlando Pirates.png"/></div>
+<div class="header-club-logos_name">Orlando Pirates</div>
+</a>, <a class="header-club-logos_inner" href="/club/Polokwane_City?league=betway-premiership">
+<div class="header-club-logos_logo"> <img src="https://www.psl.co.za/newpsl/images/clublogos/small/Polokwane City.png"/></div>
+<div class="header-club-logos_name">Polokwane City</div>
+</a>, <a class="header-club-logos_inner" href="/club/Richards_Bay?league=betway-premiership">
+<div class="header-club-logos_logo"> <img src="https://www.psl.co.za/newpsl/images/clublogos/small/Richards Bay.png"/></div>
+<div class="header-club-logos_name">Richards Bay</div>
+</a>, <a class="header-club-logos_inner" href="/club/Royal_AM?league=betway-premiership">
+<div class="header-club-logos_logo"> <img src="https://www.psl.co.za/newpsl/images/clublogos/small/Royal AM.png"/></div>
+<div class="header-club-logos_name">Royal AM</div>
+</a>, <a class="header-club-logos_inner" href="/club/Sekhukhune_United?league=betway-premiership">
+<div class="header-club-logos_logo"> <img src="https://www.psl.co.za/newpsl/images/clublogos/small/Sekhukhune United.png"/></div>
+<div class="header-club-logos_name">Sekhukhune United</div>
+</a>, <a class="header-club-logos_inner" href="/club/Stellenbosch_FC?league=betway-premiership">
+<div class="header-club-logos_logo"> <img src="https://www.psl.co.za/newpsl/images/clublogos/small/Stellenbosch FC.png"/></div>
+<div class="header-club-logos_name">Stellenbosch FC</div>
+</a>, <a class="header-club-logos_inner" href="/club/SuperSport_United?league=betway-premiership">
+<div class="header-club-logos_logo"> <img src="https://www.psl.co.za/newpsl/images/clublogos/small/SuperSport United.png"/></div>
+<div class="header-club-logos_name">SuperSport United</div>
+</a>, <a class="header-club-logos_inner" href="/club/TS_Galaxy?league=betway-premiership">
+<div class="header-club-logos_logo"> <img src="https://www.psl.co.za/newpsl/images/clublogos/small/TS Galaxy.png"/></div>
+<div class="header-club-logos_name">TS Galaxy</div>
+</a>, <a href="/"><img alt="PSL" class="header-logo__img" src="assets/images/logo.png" srcset="assets/images/logo@2x.png 2x"/></a>, <a href="/" id="Home">Home</a>, <a href="/news" id="News">News</a>, <a class="main-nav__toggle mobile-drop-down-menu-click hidden-md hidden-lg hidden-xl" href="/Tournament" id="Tournaments" onclick="return false">Tournaments</a>, <a class="hidden-xs hidden-sm" href="/Tournament" id="Tournaments" onclick="return false">Tournaments</a>, <a href="/tournament/betway-premiership">Betway Premiership</a>, <a href="/tournament/national-first-division">Motsepe Foundation Championship</a>, <a href="/tournament/mtn8">MTN8</a>, <a href="/tournament/carling-knockout">Carling Knockout</a>, <a href="/tournament/dstv-diski-challenge">Diski Challenge</a>, <a href="/tournament/promotion-playoffs">PSL Promotion Playoffs</a>, <a href="/tournament/dstv-compact-cup">DStv Compact Cup</a>, <a href="/tournament/nedbank-cup">Nedbank Cup</a>, <a class="main-nav__toggle mobile-drop-down-menu-click hidden-md hidden-lg hidden-xl" href="/MatchCentre" id="Match Centre" onclick="return false">Match Centre</a>, <a class="hidden-xs hidden-sm" href="/MatchCentre" id="Match Centre" onclick="return false">Match Centre</a>, <a href="\matchcentre?type=results">Results</a>, <a href="\matchcentre?type=fixtures">Fixtures</a>, <a href="\matchcentre?type=log">Table</a>, <a href="\matchcentre?type=live">Live</a>, <a href="/videos" id="Videos">Videos</a>, <a href="/photo" id="Photos">Photos</a>, <a class="main-nav__toggle mobile-drop-down-menu-click hidden-md hidden-lg hidden-xl" href="/Club" id="Clubs" onclick="return false">Clubs</a>, <a class="hidden-xs hidden-sm" href="/Club" id="Clubs" onclick="return false">Clubs</a>, <a href="/club/AmaZulu_FC?league=betway-premiership">
+<img class="club_dropdown_logos" src="https://www.psl.co.za/newpsl/images/clublogos/small/AmaZulu FC.png">  AmaZulu FC
+
+                                                                        </img></a>, <a href="/club/Cape_Town_City_FC?league=betway-premiership">
+<img class="club_dropdown_logos" src="https://www.psl.co.za/newpsl/images/clublogos/small/Cape Town City FC.png"/>  Cape Town City FC
+
+                                                                        </a>, <a href="/club/Chippa_United?league=betway-premiership">
+<img class="club_dropdown_logos" src="https://www.psl.co.za/newpsl/images/clublogos/small/Chippa United.png"/>  Chippa United
+
+                                                                        </a>, <a href="/club/Golden_Arrows?league=betway-premiership">
+<img class="club_dropdown_logos" src="https://www.psl.co.za/newpsl/images/clublogos/small/Golden Arrows.png"/>  Golden Arrows
+
+                                                                        </a>, <a href="/club/Kaizer_Chiefs?league=betway-premiership">
+<img class="club_dropdown_logos" src="https://www.psl.co.za/newpsl/images/clublogos/small/Kaizer Chiefs.png"/>  Kaizer Chiefs
+
+                                                                        </a>, <a href="/club/Magesi_FC?league=betway-premiership">
+<img class="club_dropdown_logos" src="https://www.psl.co.za/newpsl/images/clublogos/small/Magesi FC.png"/>  Magesi FC
+
+                                                                        </a>, <a href="/club/Mamelodi_Sundowns?league=betway-premiership">
+<img class="club_dropdown_logos" src="https://www.psl.co.za/newpsl/images/clublogos/small/Mamelodi Sundowns.png"/>  Mamelodi Sundowns
+
+                                                                        </a>, <a href="/club/Marumo_Gallants_FC?league=betway-premiership">
+<img class="club_dropdown_logos" src="https://www.psl.co.za/newpsl/images/clublogos/small/Marumo Gallants FC.png"/>  Marumo Gallants FC
+
+                                                                        </a>, <a href="/club/Orlando_Pirates?league=betway-premiership">
+<img class="club_dropdown_logos" src="https://www.psl.co.za/newpsl/images/clublogos/small/Orlando Pirates.png"/>  Orlando Pirates
+
+                                                                        </a>, <a href="/club/Polokwane_City?league=betway-premiership">
+<img class="club_dropdown_logos" src="https://www.psl.co.za/newpsl/images/clublogos/small/Polokwane City.png"/>  Polokwane City
+
+                                                                        </a>, <a href="/club/Richards_Bay?league=betway-premiership">
+<img class="club_dropdown_logos" src="https://www.psl.co.za/newpsl/images/clublogos/small/Richards Bay.png"/>  Richards Bay
+
+                                                                        </a>, <a href="/club/Royal_AM?league=betway-premiership">
+<img class="club_dropdown_logos" src="https://www.psl.co.za/newpsl/images/clublogos/small/Royal AM.png"/>  Royal AM
+
+                                                                        </a>, <a href="/club/Sekhukhune_United?league=betway-premiership">
+<img class="club_dropdown_logos" src="https://www.psl.co.za/newpsl/images/clublogos/small/Sekhukhune United.png"/>  Sekhukhune United
+
+                                                                        </a>, <a href="/club/Stellenbosch_FC?league=betway-premiership">
+<img class="club_dropdown_logos" src="https://www.psl.co.za/newpsl/images/clublogos/small/Stellenbosch FC.png"/>  Stellenbosch FC
+
+                                                                        </a>, <a href="/club/SuperSport_United?league=betway-premiership">
+<img class="club_dropdown_logos" src="https://www.psl.co.za/newpsl/images/clublogos/small/SuperSport United.png"/>  SuperSport United
+
+                                                                        </a>, <a href="/club/TS_Galaxy?league=betway-premiership">
+<img class="club_dropdown_logos" src="https://www.psl.co.za/newpsl/images/clublogos/small/TS Galaxy.png"/>  TS Galaxy
+
+                                                                        </a>, <a href="/club/Baroka%20FC?league=national-first-division">
+<img class="club_dropdown_logos" src="https://www.psl.co.za/newpsl/images/clublogos/small/Baroka FC.png"/>  Baroka FC
+
+                                                                        </a>, <a href="/club/Black%20Leopards?league=national-first-division">
+<img class="club_dropdown_logos" src="https://www.psl.co.za/newpsl/images/clublogos/small/Black Leopards.png"/>  Black Leopards
+
+                                                                        </a>, <a href="/club/Cape%20Town%20Spurs?league=national-first-division">
+<img class="club_dropdown_logos" src="https://www.psl.co.za/newpsl/images/clublogos/small/Cape Town Spurs.png"/>  Cape Town Spurs
+
+                                                                        </a>, <a href="/club/Casric%20Stars?league=national-first-division">
+<img class="club_dropdown_logos" src="https://www.psl.co.za/newpsl/images/clublogos/small/Casric Stars.png"/>  Casric Stars
+
+                                                                        </a>, <a href="/club/Durban%20City?league=national-first-division">
+<img class="club_dropdown_logos" src="https://www.psl.co.za/newpsl/images/clublogos/small/Durban City.png"/>  Durban City
+
+                                                                        </a>, <a href="/club/Highbury?league=national-first-division">
+<img class="club_dropdown_logos" src="https://www.psl.co.za/newpsl/images/clublogos/small/Highbury.png"/>  Highbury
+
+                                                                        </a>, <a href="/club/Hungry%20Lions%20FC?league=national-first-division">
+<img class="club_dropdown_logos" src="https://www.psl.co.za/newpsl/images/clublogos/small/Hungry Lions FC.png"/>  Hungry Lions FC
+
+                                                                        </a>, <a href="/club/JDR%20Stars?league=national-first-division">
+<img class="club_dropdown_logos" src="https://www.psl.co.za/newpsl/images/clublogos/small/JDR Stars.png"/>  JDR Stars
+
+                                                                        </a>, <a href="/club/Kruger%20United?league=national-first-division">
+<img class="club_dropdown_logos" src="https://www.psl.co.za/newpsl/images/clublogos/small/Kruger United.png"/>  Kruger United
+
+                                                                        </a>, <a href="/club/Leruma%20United?league=national-first-division">
+<img class="club_dropdown_logos" src="https://www.psl.co.za/newpsl/images/clublogos/small/Leruma United.png"/>  Leruma United
+
+                                                                        </a>, <a href="/club/Milford?league=national-first-division">
+<img class="club_dropdown_logos" src="https://www.psl.co.za/newpsl/images/clublogos/small/Milford.png"/>  Milford
+
+                                                                        </a>, <a href="/club/Orbit%20College%20FC?league=national-first-division">
+<img class="club_dropdown_logos" src="https://www.psl.co.za/newpsl/images/clublogos/small/Orbit College FC.png"/>  Orbit College FC
+
+                                                                        </a>, <a href="/club/Pretoria%20Caillies%20FC?league=national-first-division">
+<img class="club_dropdown_logos" src="https://www.psl.co.za/newpsl/images/clublogos/small/Pretoria Caillies FC.png"/>  Pretoria Caillies FC
+
+                                                                        </a>, <a href="/club/Pretoria%20University%20FC?league=national-first-division">
+<img class="club_dropdown_logos" src="https://www.psl.co.za/newpsl/images/clublogos/small/Pretoria University FC.png"/>  Pretoria University FC
+
+                                                                        </a>, <a href="/club/Upington%20City?league=national-first-division">
+<img class="club_dropdown_logos" src="https://www.psl.co.za/newpsl/images/clublogos/small/Upington City.png"/>  Upington City
+
+                                                                        </a>, <a href="/club/Venda%20FC?league=national-first-division">
+<img class="club_dropdown_logos" src="https://www.psl.co.za/newpsl/images/clublogos/small/Venda FC.png"/>  Venda FC
+
+                                                                        </a>, <a href="/content/5488" id="About">About</a>, <a class="btn btn-default btn-outline btn-xs card-header__button" href="/content/125534">About the Betway Premiership</a>, <a href="#"><img alt="" class="img-responsive" onclick="return false;" src="https://www.psl.co.za/newpsl/images/tournamentlogos/large/betway-premiership.jpg"/></a>, <a class="btn btn-default btn-outline btn-xs card-header__button" href="/matchcentre?tournament=betway-premiership">View all</a>, <a aria-controls="widget-tabbed-fixtures" data-toggle="tab" href="#widget-tabbed-fixtures" id="widget-tabbed-fixtures-tab" role="tab">Fixtures</a>, <a aria-controls="widget-tabbed-results" data-toggle="tab" href="#widget-tabbed-results" id="widget-tabbed-results-tab" role="tab">Results</a>, <a aria-controls="widget-tabbed-live" data-toggle="tab" href="#widget-tabbed-live" id="widget-tabbed-live-tab" role="tab">Live</a>, <a class="btn btn-primary-inverse btn-xs card-header__button" href="/matchcentre/detail/2481490-magesi-fc-vs-ts-galaxy">
+<span class="buttons-desktop-only">Match Summary</span>
+<span class="buttons-mobile-only"><i class="fa fa-plus"></i></span>
+</a>, <a class="btn btn-primary-inverse btn-xs card-header__button" href="/matchcentre/detail/2481486-chippa-united-vs-kaizer-chiefs">
+<span class="buttons-desktop-only">Match Summary</span>
+<span class="buttons-mobile-only"><i class="fa fa-plus"></i></span>
+</a>, <a class="btn btn-primary-inverse btn-xs card-header__button" href="/matchcentre/detail/2481488-sekhukhune-united-vs-polokwane-city">
+<span class="buttons-desktop-only">Match Summary</span>
+<span class="buttons-mobile-only"><i class="fa fa-plus"></i></span>
+</a>, <a class="btn btn-primary-inverse btn-xs card-header__button" href="/matchcentre/detail/2481487-marumo-gallants-fc-vs-golden-arrows">
+<span class="buttons-desktop-only">Match Summary</span>
+<span class="buttons-mobile-only"><i class="fa fa-plus"></i></span>
+</a>, <a class="btn btn-primary-inverse btn-xs card-header__button" href="/matchcentre/detail/2481484-richards-bay-vs-cape-town-city-fc">
+<span class="buttons-desktop-only">Match Summary</span>
+<span class="buttons-mobile-only"><i class="fa fa-plus"></i></span>
+</a>, <a class="btn btn-default btn-outline btn-xs card-header__button" href="/news?leaqueName=betway-premiership">View all News</a>, <a href="/news/article/5610784-magesi-win-sixth-straight-home-match">
+<img alt="" src="https://images.supersport.com/2025/4/ma3.jpg"/>
+</a>, <a href="/news/article/5610784-magesi-win-sixth-straight-home-match">Magesi win sixth straight home match in South Africa</a>, <a href="/news/article/5610774-chippa-chiefs-play-to-stalemate-in-to">
+<img alt="" src="https://images.supersport.com/2025/4/pa2.jpg"/>
+</a>, <a href="/news/article/5610774-chippa-chiefs-play-to-stalemate-in-to">Chippa, Chiefs play to stalemate in top-eight chase</a>, <a href="/news/article/5610764-babina-noko-claim-bragging-rights-in">
+<img alt="" src="https://images.supersport.com/2025/4/khun2.jpg"/>
+</a>, <a href="/news/article/5610764-babina-noko-claim-bragging-rights-in">Babina Noko claim bragging rights in Polokwane Derby</a>, <a href="/news/article/5610754-penalty-earns-arrows-point-against-ga">
+<img alt="" src="https://images.supersport.com/2025/4/maru2.jpg"/>
+</a>, <a href="/news/article/5610754-penalty-earns-arrows-point-against-ga">Penalty earns Arrows point against Gallants</a>, <a href="/news/article/5610744-gumede-strikes-late-to-hand-richards">
+<img alt="" src="https://images.supersport.com/2025/4/Thulani-Gumede-celebrates-25-04-G-400.jpg"/>
+</a>, <a href="/news/article/5610744-gumede-strikes-late-to-hand-richards">Gumede strikes late to hand Richards Bay win over CT City </a>, <a href="/club/Mamelodi_Sundowns?league=betway-premiership">
+<div class="team-meta__info">
+<h5 class="team-meta__name">1   </h5>
+</div>
+<figure class="team-meta__logo">
+<img alt="Mamelodi Sundowns" onerror="this.src='https://www.psl.co.za/newpsl/images/clublogos/noclublogo.png';" src="https://www.psl.co.za/newpsl/images/clublogos/Mamelodi Sundowns.png"/>
+</figure>
+<div class="team-meta__info">
+<h6 class="team-meta__name">Mamelodi Sundowns</h6>
+</div>
+</a>, <a href="/club/Orlando_Pirates?league=betway-premiership">
+<div class="team-meta__info">
+<h5 class="team-meta__name">2   </h5>
+</div>
+<figure class="team-meta__logo">
+<img alt="Orlando Pirates" onerror="this.src='https://www.psl.co.za/newpsl/images/clublogos/noclublogo.png';" src="https://www.psl.co.za/newpsl/images/clublogos/Orlando Pirates.png"/>
+</figure>
+<div class="team-meta__info">
+<h6 class="team-meta__name">Orlando Pirates</h6>
+</div>
+</a>, <a href="/club/Sekhukhune_United?league=betway-premiership">
+<div class="team-meta__info">
+<h5 class="team-meta__name">3   </h5>
+</div>
+<figure class="team-meta__logo">
+<img alt="Sekhukhune United" onerror="this.src='https://www.psl.co.za/newpsl/images/clublogos/noclublogo.png';" src="https://www.psl.co.za/newpsl/images/clublogos/Sekhukhune United.png"/>
+</figure>
+<div class="team-meta__info">
+<h6 class="team-meta__name">Sekhukhune United</h6>
+</div>
+</a>, <a href="/club/Stellenbosch_FC?league=betway-premiership">
+<div class="team-meta__info">
+<h5 class="team-meta__name">4   </h5>
+</div>
+<figure class="team-meta__logo">
+<img alt="Stellenbosch FC" onerror="this.src='https://www.psl.co.za/newpsl/images/clublogos/noclublogo.png';" src="https://www.psl.co.za/newpsl/images/clublogos/Stellenbosch FC.png"/>
+</figure>
+<div class="team-meta__info">
+<h6 class="team-meta__name">Stellenbosch FC</h6>
+</div>
+</a>, <a href="/club/TS_Galaxy?league=betway-premiership">
+<div class="team-meta__info">
+<h5 class="team-meta__name">5   </h5>
+</div>
+<figure class="team-meta__logo">
+<img alt="TS Galaxy" onerror="this.src='https://www.psl.co.za/newpsl/images/clublogos/noclublogo.png';" src="https://www.psl.co.za/newpsl/images/clublogos/TS Galaxy.png"/>
+</figure>
+<div class="team-meta__info">
+<h6 class="team-meta__name">TS Galaxy</h6>
+</div>
+</a>, <a href="/club/Polokwane_City?league=betway-premiership">
+<div class="team-meta__info">
+<h5 class="team-meta__name">6   </h5>
+</div>
+<figure class="team-meta__logo">
+<img alt="Polokwane City" onerror="this.src='https://www.psl.co.za/newpsl/images/clublogos/noclublogo.png';" src="https://www.psl.co.za/newpsl/images/clublogos/Polokwane City.png"/>
+</figure>
+<div class="team-meta__info">
+<h6 class="team-meta__name">Polokwane City</h6>
+</div>
+</a>, <a href="/club/AmaZulu_FC?league=betway-premiership">
+<div class="team-meta__info">
+<h5 class="team-meta__name">7   </h5>
+</div>
+<figure class="team-meta__logo">
+<img alt="AmaZulu FC" onerror="this.src='https://www.psl.co.za/newpsl/images/clublogos/noclublogo.png';" src="https://www.psl.co.za/newpsl/images/clublogos/AmaZulu FC.png"/>
+</figure>
+<div class="team-meta__info">
+<h6 class="team-meta__name">AmaZulu FC</h6>
+</div>
+</a>, <a href="/club/Kaizer_Chiefs?league=betway-premiership">
+<div class="team-meta__info">
+<h5 class="team-meta__name">8   </h5>
+</div>
+<figure class="team-meta__logo">
+<img alt="Kaizer Chiefs" onerror="this.src='https://www.psl.co.za/newpsl/images/clublogos/noclublogo.png';" src="https://www.psl.co.za/newpsl/images/clublogos/Kaizer Chiefs.png"/>
+</figure>
+<div class="team-meta__info">
+<h6 class="team-meta__name">Kaizer Chiefs</h6>
+</div>
+</a>, <a href="/club/Chippa_United?league=betway-premiership">
+<div class="team-meta__info">
+<h5 class="team-meta__name">9   </h5>
+</div>
+<figure class="team-meta__logo">
+<img alt="Chippa United" onerror="this.src='https://www.psl.co.za/newpsl/images/clublogos/noclublogo.png';" src="https://www.psl.co.za/newpsl/images/clublogos/Chippa United.png"/>
+</figure>
+<div class="team-meta__info">
+<h6 class="team-meta__name">Chippa United</h6>
+</div>
+</a>, <a href="/club/Golden_Arrows?league=betway-premiership">
+<div class="team-meta__info">
+<h5 class="team-meta__name">10   </h5>
+</div>
+<figure class="team-meta__logo">
+<img alt="Golden Arrows" onerror="this.src='https://www.psl.co.za/newpsl/images/clublogos/noclublogo.png';" src="https://www.psl.co.za/newpsl/images/clublogos/Golden Arrows.png"/>
+</figure>
+<div class="team-meta__info">
+<h6 class="team-meta__name">Golden Arrows</h6>
+</div>
+</a>, <a href="/club/Magesi_FC?league=betway-premiership">
+<div class="team-meta__info">
+<h5 class="team-meta__name">11   </h5>
+</div>
+<figure class="team-meta__logo">
+<img alt="Magesi FC" onerror="this.src='https://www.psl.co.za/newpsl/images/clublogos/noclublogo.png';" src="https://www.psl.co.za/newpsl/images/clublogos/Magesi FC.png"/>
+</figure>
+<div class="team-meta__info">
+<h6 class="team-meta__name">Magesi FC</h6>
+</div>
+</a>, <a href="/club/Richards_Bay?league=betway-premiership">
+<div class="team-meta__info">
+<h5 class="team-meta__name">12   </h5>
+</div>
+<figure class="team-meta__logo">
+<img alt="Richards Bay" onerror="this.src='https://www.psl.co.za/newpsl/images/clublogos/noclublogo.png';" src="https://www.psl.co.za/newpsl/images/clublogos/Richards Bay.png"/>
+</figure>
+<div class="team-meta__info">
+<h6 class="team-meta__name">Richards Bay</h6>
+</div>
+</a>, <a href="/club/Marumo_Gallants_FC?league=betway-premiership">
+<div class="team-meta__info">
+<h5 class="team-meta__name">13   </h5>
+</div>
+<figure class="team-meta__logo">
+<img alt="Marumo Gallants FC" onerror="this.src='https://www.psl.co.za/newpsl/images/clublogos/noclublogo.png';" src="https://www.psl.co.za/newpsl/images/clublogos/Marumo Gallants FC.png"/>
+</figure>
+<div class="team-meta__info">
+<h6 class="team-meta__name">Marumo Gallants FC</h6>
+</div>
+</a>, <a href="/club/Cape_Town_City_FC?league=betway-premiership">
+<div class="team-meta__info">
+<h5 class="team-meta__name">14   </h5>
+</div>
+<figure class="team-meta__logo">
+<img alt="Cape Town City FC" onerror="this.src='https://www.psl.co.za/newpsl/images/clublogos/noclublogo.png';" src="https://www.psl.co.za/newpsl/images/clublogos/Cape Town City FC.png"/>
+</figure>
+<div class="team-meta__info">
+<h6 class="team-meta__name">Cape Town City FC</h6>
+</div>
+</a>, <a href="/club/SuperSport_United?league=betway-premiership">
+<div class="team-meta__info">
+<h5 class="team-meta__name">15   </h5>
+</div>
+<figure class="team-meta__logo">
+<img alt="SuperSport United" onerror="this.src='https://www.psl.co.za/newpsl/images/clublogos/noclublogo.png';" src="https://www.psl.co.za/newpsl/images/clublogos/SuperSport United.png"/>
+</figure>
+<div class="team-meta__info">
+<h6 class="team-meta__name">SuperSport United</h6>
+</div>
+</a>, <a href="/club/Royal_AM?league=betway-premiership">
+<div class="team-meta__info">
+<h5 class="team-meta__name">16   </h5>
+</div>
+<figure class="team-meta__logo">
+<img alt="Royal AM" onerror="this.src='https://www.psl.co.za/newpsl/images/clublogos/noclublogo.png';" src="https://www.psl.co.za/newpsl/images/clublogos/Royal AM.png"/>
+</figure>
+<div class="team-meta__info">
+<h6 class="team-meta__name">Royal AM</h6>
+</div>
+</a>, <a class="btn btn-default btn-outline btn-xs card-header__button" href="/videos?tournament=betway-premiership">View all Videos</a>, <a class="posts__link-wrapper videoPlayer" data-show-related-videos="true" data-videoid="1460534" onclick="return false;">
+<figure class="posts__thumb">
+<img alt="" src="http://supersport-img.azureedge.net/videoimages/2025/4/SOC_200425_PSL_MAGVTSG_P.png"/>
+</figure>
+<div class="posts__inner">
+<h3 class="posts__title">Magesi FC v TS Galaxy | Extended Highlights | Premier Soccer League</h3>
+<time class="posts__date" datetime="2017-08-28"> 20 Apr 2025</time>
+</div>
+</a>, <a class="posts__link-wrapper videoPlayer" data-show-related-videos="true" data-videoid="1460444" onclick="return false;">
+<figure class="posts__thumb">
+<img alt="" src="http://supersport-img.azureedge.net/videoimages/2025/4/SOC_190425_PSL_CUVCHI_HD10_500KP.jpeg"/>
+</figure>
+<div class="posts__inner">
+<h3 class="posts__title">Chippa v Chiefs | Extended Highlights | Premier Soccer League</h3>
+<time class="posts__date" datetime="2017-08-28"> 19 Apr 2025</time>
+</div>
+</a>, <a class="posts__link-wrapper videoPlayer" data-show-related-videos="true" data-videoid="1460394" onclick="return false;">
+<figure class="posts__thumb">
+<img alt="" src="http://supersport-img.azureedge.net/videoimages/2025/4/SOC_190425_PSL_MGVGA_P.png"/>
+</figure>
+<div class="posts__inner">
+<h3 class="posts__title">Marumo Gallants v Golden Arrows | Extended Highlights | Premier Soccer League</h3>
+<time class="posts__date" datetime="2017-08-28"> 19 Apr 2025</time>
+</div>
+</a>, <a class="posts__link-wrapper videoPlayer" data-show-related-videos="true" data-videoid="1460264" onclick="return false;">
+<figure class="posts__thumb">
+<img alt="" src="http://supersport-img.azureedge.net/videoimages/2025/4/SOC_180425_PSL_RBFCVCTC_HD10_YouTube.jpeg"/>
+</figure>
+<div class="posts__inner">
+<h3 class="posts__title">Richards Bay v Cape Town City | Extended Highlights | Premier Soccer League</h3>
+<time class="posts__date" datetime="2017-08-28"> 18 Apr 2025</time>
+</div>
+</a>, <a class="posts__link-wrapper videoPlayer" data-show-related-videos="true" data-videoid="1460014" onclick="return false;">
+<figure class="posts__thumb">
+<img alt="" src="http://supersport-img.azureedge.net/videoimages/2025/4/goals.png"/>
+</figure>
+<div class="posts__inner">
+<h3 class="posts__title">Top 5 Goals | March</h3>
+<time class="posts__date" datetime="2017-08-28"> 16 Apr 2025</time>
+</div>
+</a>, <a class="posts__link-wrapper videoPlayer" data-show-related-videos="true" data-videoid="1459964" onclick="return false;">
+<figure class="posts__thumb">
+<img alt="" src="http://supersport-img.azureedge.net/videoimages/2025/4/SOC_150425_PSL_SFCVAMA_p.png"/>
+</figure>
+<div class="posts__inner">
+<h3 class="posts__title">Stellenbosch FC v AmaZulu | Extended Highlights | Premier Soccer League</h3>
+<time class="posts__date" datetime="2017-08-28"> 15 Apr 2025</time>
+</div>
+</a>, <a href="https://www.betway.co.za" target="_blank"><img alt="Betway" src="https://psl.co.za/newpsl/images/sponsors/betway-premiership-sponsor.jpg"/></a>, <a href="https://www.nedbank.co.za" target="_blank"><img alt="Nedbank" src="https://psl.co.za/newpsl/images/sponsors/nedbank.png"/></a>, <a href="https://www.mtn.co.za" target="_blank"><img alt="MTN" src="https://images.supersport.com/content/mtn_logo_150x75.png"/></a>, <a href="https://www.carlingblacklabel.co.za" target="_blank"><img alt="Carling Black Label" src="https://psl.co.za/newpsl/images/sponsors/Carling.PNG"/></a>, <a href="/tournament/betway-premiership">Betway Premiership</a>, <a href="/tournament/national-first-division">Motsepe Foundation Championship</a>, <a href="/tournament/nedbank-cup">Nedbank Cup</a>, <a href="/tournament/carling-knockout">Carling Knockout</a>, <a href="/tournament/dstv-diski-challenge">DStv Diski Challenge</a>, <a href="/tournament/multichoice-diski-shield">Diski Shield</a>, <a href="/tournament/dstv-compact-cup">DStv Compact Cup</a>, <a href="/tournament/mtn8">MTN8</a>, <a href="/content/5488">About</a>, <a href="https://images.supersport.com/content/PSL_NSL_Handbook_2023.pdf">NSL Handbook</a>, <a href="https://images.supersport.com/content/PROMOTION_OF_ACCESS_TO_INFOR_MANUAL.PDF">Info Access Manual</a>, <a href="/content/5480">Sponsors</a>, <a href="/content/5486">Objectives</a>, <a href="https://images.supersport.com/content/PSL_Annual_Report_2017-18.pdf">Annual Reports</a>, <a href="http://images.supersport.com/content/PSL_Matches_and_Competions_Tickets_Full_Terms_and_Conditions.pdf">Ticket Terms and Conditions</a>, <a href="/content/101801">Terms and Conditions</a>, <a href="https://images.supersport.com/content/NSL_Privacy_Policy_and_Informed_Consent_Notice_24_Oct_2024.pdf">NSL Privacy Policy and Informed Consent Notice</a>, <a href="/content/16301">Contact</a>, <a href="http://psl-portal.xpac.co.za">Media Portal</a>, <a href="https://images.supersport.com/content/MTN8-Rules-2023-2024_Season.pdf">MTN8 Rules</a>, <a href="https://images.supersport.com/content/NedbankCup-Rules2021.pdf">Nedbank Cup Rules</a>, <a href="https://images.supersport.com/2012-08-30-NSL-Rules.pdf">Motsepe Foundation Championship</a>, <a href="https://images.supersport.com/content/DStv_Diski_Challenge_Rules_November_2020.pdf">Diski Challenge Rules</a>, <a href="https://images.supersport.com/content/Carling-Knockout-Rules2023_Final_Approved_Version.pdf">Carling Knockout Rules</a>]
+
+
+ start of LINKS_HREF 
+
+https://psl.co.za/https://psl.co.za#https://psl.co.zahttps://www.facebook.com/OfficialPSL/https://psl.co.zahttps://twitter.com/officialpsl/https://psl.co.za/MatchCentrehttps://psl.co.za/club/AmaZulu_FC?league=betway-premiershiphttps://psl.co.za/club/Cape_Town_City_FC?league=betway-premiershiphttps://psl.co.za/club/Chippa_United?league=betway-premiershiphttps://psl.co.za/club/Golden_Arrows?league=betway-premiershiphttps://psl.co.za/club/Kaizer_Chiefs?league=betway-premiershiphttps://psl.co.za/club/Magesi_FC?league=betway-premiershiphttps://psl.co.za/club/Mamelodi_Sundowns?league=betway-premiershiphttps://psl.co.za/club/Marumo_Gallants_FC?league=betway-premiershiphttps://psl.co.za/club/Orlando_Pirates?league=betway-premiershiphttps://psl.co.za/club/Polokwane_City?league=betway-premiershiphttps://psl.co.za/club/Richards_Bay?league=betway-premiershiphttps://psl.co.za/club/Royal_AM?league=betway-premiershiphttps://psl.co.za/club/Sekhukhune_United?league=betway-premiershiphttps://psl.co.za/club/Stellenbosch_FC?league=betway-premiershiphttps://psl.co.za/club/SuperSport_United?league=betway-premiershiphttps://psl.co.za/club/TS_Galaxy?league=betway-premiershiphttps://psl.co.za/https://psl.co.za/https://psl.co.za/newshttps://psl.co.za/Tournamenthttps://psl.co.za/Tournamenthttps://psl.co.za/tournament/betway-premiershiphttps://psl.co.za/tournament/national-first-divisionhttps://psl.co.za/tournament/mtn8https://psl.co.za/tournament/carling-knockouthttps://psl.co.za/tournament/dstv-diski-challengehttps://psl.co.za/tournament/promotion-playoffshttps://psl.co.za/tournament/dstv-compact-cuphttps://psl.co.za/tournament/nedbank-cuphttps://psl.co.za/MatchCentrehttps://psl.co.za/MatchCentrehttps://psl.co.za\matchcentre?type=resultshttps://psl.co.za\matchcentre?type=fixtureshttps://psl.co.za\matchcentre?type=loghttps://psl.co.za\matchcentre?type=livehttps://psl.co.za/videoshttps://psl.co.za/photohttps://psl.co.za/Clubhttps://psl.co.za/Clubhttps://psl.co.za/club/AmaZulu_FC?league=betway-premiershiphttps://psl.co.za/club/Cape_Town_City_FC?league=betway-premiershiphttps://psl.co.za/club/Chippa_United?league=betway-premiershiphttps://psl.co.za/club/Golden_Arrows?league=betway-premiershiphttps://psl.co.za/club/Kaizer_Chiefs?league=betway-premiershiphttps://psl.co.za/club/Magesi_FC?league=betway-premiershiphttps://psl.co.za/club/Mamelodi_Sundowns?league=betway-premiershiphttps://psl.co.za/club/Marumo_Gallants_FC?league=betway-premiershiphttps://psl.co.za/club/Orlando_Pirates?league=betway-premiershiphttps://psl.co.za/club/Polokwane_City?league=betway-premiershiphttps://psl.co.za/club/Richards_Bay?league=betway-premiershiphttps://psl.co.za/club/Royal_AM?league=betway-premiershiphttps://psl.co.za/club/Sekhukhune_United?league=betway-premiershiphttps://psl.co.za/club/Stellenbosch_FC?league=betway-premiershiphttps://psl.co.za/club/SuperSport_United?league=betway-premiershiphttps://psl.co.za/club/TS_Galaxy?league=betway-premiershiphttps://psl.co.za/club/Baroka%20FC?league=national-first-divisionhttps://psl.co.za/club/Black%20Leopards?league=national-first-divisionhttps://psl.co.za/club/Cape%20Town%20Spurs?league=national-first-divisionhttps://psl.co.za/club/Casric%20Stars?league=national-first-divisionhttps://psl.co.za/club/Durban%20City?league=national-first-divisionhttps://psl.co.za/club/Highbury?league=national-first-divisionhttps://psl.co.za/club/Hungry%20Lions%20FC?league=national-first-divisionhttps://psl.co.za/club/JDR%20Stars?league=national-first-divisionhttps://psl.co.za/club/Kruger%20United?league=national-first-divisionhttps://psl.co.za/club/Leruma%20United?league=national-first-divisionhttps://psl.co.za/club/Milford?league=national-first-divisionhttps://psl.co.za/club/Orbit%20College%20FC?league=national-first-divisionhttps://psl.co.za/club/Pretoria%20Caillies%20FC?league=national-first-divisionhttps://psl.co.za/club/Pretoria%20University%20FC?league=national-first-divisionhttps://psl.co.za/club/Upington%20City?league=national-first-divisionhttps://psl.co.za/club/Venda%20FC?league=national-first-divisionhttps://psl.co.za/content/5488https://psl.co.za/content/125534https://psl.co.za#https://psl.co.za/matchcentre?tournament=betway-premiershiphttps://psl.co.za#widget-tabbed-fixtureshttps://psl.co.za#widget-tabbed-resultshttps://psl.co.za#widget-tabbed-livehttps://psl.co.za/matchcentre/detail/2481490-magesi-fc-vs-ts-galaxyhttps://psl.co.za/matchcentre/detail/2481486-chippa-united-vs-kaizer-chiefshttps://psl.co.za/matchcentre/detail/2481488-sekhukhune-united-vs-polokwane-cityhttps://psl.co.za/matchcentre/detail/2481487-marumo-gallants-fc-vs-golden-arrowshttps://psl.co.za/matchcentre/detail/2481484-richards-bay-vs-cape-town-city-fchttps://psl.co.za/news?leaqueName=betway-premiershiphttps://psl.co.za/news/article/5610784-magesi-win-sixth-straight-home-matchhttps://psl.co.za/news/article/5610784-magesi-win-sixth-straight-home-matchhttps://psl.co.za/news/article/5610774-chippa-chiefs-play-to-stalemate-in-tohttps://psl.co.za/news/article/5610774-chippa-chiefs-play-to-stalemate-in-tohttps://psl.co.za/news/article/5610764-babina-noko-claim-bragging-rights-inhttps://psl.co.za/news/article/5610764-babina-noko-claim-bragging-rights-inhttps://psl.co.za/news/article/5610754-penalty-earns-arrows-point-against-gahttps://psl.co.za/news/article/5610754-penalty-earns-arrows-point-against-gahttps://psl.co.za/news/article/5610744-gumede-strikes-late-to-hand-richardshttps://psl.co.za/news/article/5610744-gumede-strikes-late-to-hand-richardshttps://psl.co.za/club/Mamelodi_Sundowns?league=betway-premiershiphttps://psl.co.za/club/Orlando_Pirates?league=betway-premiershiphttps://psl.co.za/club/Sekhukhune_United?league=betway-premiershiphttps://psl.co.za/club/Stellenbosch_FC?league=betway-premiershiphttps://psl.co.za/club/TS_Galaxy?league=betway-premiershiphttps://psl.co.za/club/Polokwane_City?league=betway-premiershiphttps://psl.co.za/club/AmaZulu_FC?league=betway-premiershiphttps://psl.co.za/club/Kaizer_Chiefs?league=betway-premiershiphttps://psl.co.za/club/Chippa_United?league=betway-premiershiphttps://psl.co.za/club/Golden_Arrows?league=betway-premiershiphttps://psl.co.za/club/Magesi_FC?league=betway-premiershiphttps://psl.co.za/club/Richards_Bay?league=betway-premiershiphttps://psl.co.za/club/Marumo_Gallants_FC?league=betway-premiershiphttps://psl.co.za/club/Cape_Town_City_FC?league=betway-premiershiphttps://psl.co.za/club/SuperSport_United?league=betway-premiershiphttps://psl.co.za/club/Royal_AM?league=betway-premiershiphttps://psl.co.za/videos?tournament=betway-premiershiphttps://psl.co.zahttps://www.betway.co.zahttps://psl.co.zahttps://www.nedbank.co.zahttps://psl.co.zahttps://www.mtn.co.zahttps://psl.co.zahttps://www.carlingblacklabel.co.zahttps://psl.co.za/tournament/betway-premiershiphttps://psl.co.za/tournament/national-first-divisionhttps://psl.co.za/tournament/nedbank-cuphttps://psl.co.za/tournament/carling-knockouthttps://psl.co.za/tournament/dstv-diski-challengehttps://psl.co.za/tournament/multichoice-diski-shieldhttps://psl.co.za/tournament/dstv-compact-cuphttps://psl.co.za/tournament/mtn8https://psl.co.za/content/5488https://psl.co.zahttps://images.supersport.com/content/PSL_NSL_Handbook_2023.pdfhttps://psl.co.zahttps://images.supersport.com/content/PROMOTION_OF_ACCESS_TO_INFOR_MANUAL.PDFhttps://psl.co.za/content/5480https://psl.co.za/content/5486https://psl.co.zahttps://images.supersport.com/content/PSL_Annual_Report_2017-18.pdfhttps://psl.co.zahttp://images.supersport.com/content/PSL_Matches_and_Competions_Tickets_Full_Terms_and_Conditions.pdfhttps://psl.co.za/content/101801https://psl.co.zahttps://images.supersport.com/content/NSL_Privacy_Policy_and_Informed_Consent_Notice_24_Oct_2024.pdfhttps://psl.co.za/content/16301https://psl.co.zahttp://psl-portal.xpac.co.zahttps://psl.co.zahttps://images.supersport.com/content/MTN8-Rules-2023-2024_Season.pdfhttps://psl.co.zahttps://images.supersport.com/content/NedbankCup-Rules2021.pdfhttps://psl.co.zahttps://images.supersport.com/2012-08-30-NSL-Rules.pdfhttps://psl.co.zahttps://images.supersport.com/content/DStv_Diski_Challenge_Rules_November_2020.pdfhttps://psl.co.zahttps://images.supersport.com/content/Carling-Knockout-Rules2023_Final_Approved_Version.pdf

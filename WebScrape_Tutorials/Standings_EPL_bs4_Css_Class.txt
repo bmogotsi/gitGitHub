@@ -1,0 +1,31 @@
+1. results2024-202591_overall
+2. results2024-202591_home_away
+3. stats_squads_standard_for
+4. stats_squads_standard_against
+5. stats_squads_keeper_for
+6. stats_squads_keeper_against
+7. stats_squads_keeper_adv_for
+8. stats_squads_keeper_adv_against
+9. stats_squads_shooting_for
+10. stats_squads_shooting_against
+11. stats_squads_passing_for
+12. stats_squads_passing_against
+13. stats_squads_passing_types_for
+14. stats_squads_passing_types_against
+15. stats_squads_gca_for
+16. stats_squads_gca_against
+17. stats_squads_defense_for
+18. stats_squads_defense_against
+19. stats_squads_possession_for
+20. stats_squads_possession_against
+21. stats_squads_playing_time_for
+22. stats_squads_playing_time_against
+23. stats_squads_misc_for
+24. stats_squads_misc_against
+
+
+
+
+
+
+{'s t a t s _ s q u a d s _ g c a _ f o r', 's t a t s _ s q u a d s _ p o s s e s s i o n _ f o r', 's t a t s _ s q u a d s _ s h o o t i n g _ f o r', 's t a t s _ s q u a d s _ p a s s i n g _ t y p e s _ a g a i n s t', 'r e s u l t s 2 0 2 4 - 2 0 2 5 9 1 _ h o m e _ a w a y', 's t a t s _ s q u a d s _ k e e p e r _ a d v _ f o r', 's t a t s _ s q u a d s _ p l a y i n g _ t i m e _ a g a i n s t', 's t a t s _ s q u a d s _ d e f e n s e _ f o r', 's t a t s _ s q u a d s _ p o s s e s s i o n _ a g a i n s t', 's t a t s _ s q u a d s _ p a s s i n g _ f o r', 's t a t s _ s q u a d s _ g c a _ a g a i n s t', 's t a t s _ s q u a d s _ s t a n d a r d _ f o r', 's t a t s _ s q u a d s _ s t a n d a r d _ a g a i n s t', 's t a t s _ s q u a d s _ p l a y i n g _ t i m e _ f o r', 's t a t s _ s q u a d s _ d e f e n s e _ a g a i n s t', 's t a t s _ s q u a d s _ k e e p e r _ a g a i n s t', 's t a t s _ s q u a d s _ k e e p e r _ a d v _ a g a i n s t', 's t a t s _ s q u a d s _ p a s s i n g _ t y p e s _ f o r', 'r e s u l t s 2 0 2 4 - 2 0 2 5 9 1 _ o v e r a l l', 's t a t s _ s q u a d s _ k e e p e r _ f o r', 's t a t s _ s q u a d s _ s h o o t i n g _ a g a i n s t', 's t a t s _ s q u a d s _ p a s s i n g _ a g a i n s t', 's t a t s _ s q u a d s _ m i s c _ f o r', 's t a t s _ s q u a d s _ m i s c _ a g a i n s t'}

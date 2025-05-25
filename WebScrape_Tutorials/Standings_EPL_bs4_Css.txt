@@ -1,0 +1,48 @@
+
+count...: 1, tag...: table, attributes...: {'class': ['stats_table', 'sortable', 'min_width', 'force_mobilize'], 'id': 'results2024-202591_overall', 'data-cols-to-freeze': ',2'}
+
+count...: 2, tag...: table, attributes...: {'class': ['stats_table', 'sortable', 'min_width', 'force_mobilize'], 'id': 'results2024-202591_home_away', 'data-cols-to-freeze': ',2'}
+
+count...: 3, tag...: table, attributes...: {'class': ['stats_table', 'sortable', 'min_width'], 'id': 'stats_squads_standard_for', 'data-cols-to-freeze': ',1'}
+
+count...: 4, tag...: table, attributes...: {'class': ['stats_table', 'sortable', 'min_width'], 'id': 'stats_squads_standard_against', 'data-cols-to-freeze': ',1'}
+
+count...: 5, tag...: table, attributes...: {'class': ['stats_table', 'sortable', 'min_width'], 'id': 'stats_squads_keeper_for', 'data-cols-to-freeze': ',1'}
+
+count...: 6, tag...: table, attributes...: {'class': ['stats_table', 'sortable', 'min_width'], 'id': 'stats_squads_keeper_against', 'data-cols-to-freeze': ',1'}
+
+count...: 7, tag...: table, attributes...: {'class': ['stats_table', 'sortable', 'min_width'], 'id': 'stats_squads_keeper_adv_for', 'data-cols-to-freeze': ',1'}
+
+count...: 8, tag...: table, attributes...: {'class': ['stats_table', 'sortable', 'min_width'], 'id': 'stats_squads_keeper_adv_against', 'data-cols-to-freeze': ',1'}
+
+count...: 9, tag...: table, attributes...: {'class': ['stats_table', 'sortable', 'min_width'], 'id': 'stats_squads_shooting_for', 'data-cols-to-freeze': ',1'}
+
+count...: 10, tag...: table, attributes...: {'class': ['stats_table', 'sortable', 'min_width'], 'id': 'stats_squads_shooting_against', 'data-cols-to-freeze': ',1'}
+
+count...: 11, tag...: table, attributes...: {'class': ['stats_table', 'sortable', 'min_width'], 'id': 'stats_squads_passing_for', 'data-cols-to-freeze': ',1'}
+
+count...: 12, tag...: table, attributes...: {'class': ['stats_table', 'sortable', 'min_width'], 'id': 'stats_squads_passing_against', 'data-cols-to-freeze': ',1'}
+
+count...: 13, tag...: table, attributes...: {'class': ['stats_table', 'sortable', 'min_width'], 'id': 'stats_squads_passing_types_for', 'data-cols-to-freeze': ',1'}
+
+count...: 14, tag...: table, attributes...: {'class': ['stats_table', 'sortable', 'min_width'], 'id': 'stats_squads_passing_types_against', 'data-cols-to-freeze': ',1'}
+
+count...: 15, tag...: table, attributes...: {'class': ['stats_table', 'sortable', 'min_width'], 'id': 'stats_squads_gca_for', 'data-cols-to-freeze': ',1'}
+
+count...: 16, tag...: table, attributes...: {'class': ['stats_table', 'sortable', 'min_width'], 'id': 'stats_squads_gca_against', 'data-cols-to-freeze': ',1'}
+
+count...: 17, tag...: table, attributes...: {'class': ['stats_table', 'sortable', 'min_width'], 'id': 'stats_squads_defense_for', 'data-cols-to-freeze': ',1'}
+
+count...: 18, tag...: table, attributes...: {'class': ['stats_table', 'sortable', 'min_width'], 'id': 'stats_squads_defense_against', 'data-cols-to-freeze': ',1'}
+
+count...: 19, tag...: table, attributes...: {'class': ['stats_table', 'sortable', 'min_width'], 'id': 'stats_squads_possession_for', 'data-cols-to-freeze': ',1'}
+
+count...: 20, tag...: table, attributes...: {'class': ['stats_table', 'sortable', 'min_width'], 'id': 'stats_squads_possession_against', 'data-cols-to-freeze': ',1'}
+
+count...: 21, tag...: table, attributes...: {'class': ['stats_table', 'sortable', 'min_width'], 'id': 'stats_squads_playing_time_for', 'data-cols-to-freeze': ',1'}
+
+count...: 22, tag...: table, attributes...: {'class': ['stats_table', 'sortable', 'min_width'], 'id': 'stats_squads_playing_time_against', 'data-cols-to-freeze': ',1'}
+
+count...: 23, tag...: table, attributes...: {'class': ['stats_table', 'sortable', 'min_width'], 'id': 'stats_squads_misc_for', 'data-cols-to-freeze': ',1'}
+
+count...: 24, tag...: table, attributes...: {'class': ['stats_table', 'sortable', 'min_width'], 'id': 'stats_squads_misc_against', 'data-cols-to-freeze': ',1'}

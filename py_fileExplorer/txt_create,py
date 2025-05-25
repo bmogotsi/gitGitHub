@@ -1,0 +1,24 @@
+# Create and append text file
+
+try:
+    # Create empty text file
+    save_psl="txt_create.txt"
+    file=open(save_psl, mode="w",encoding="utf-8")
+    file.close
+        
+    # append text file
+    save_psl="txt_create.txt"
+    file=open(save_psl, mode="a",encoding="utf-8")
+        
+    tag_a = """ \n\n\n\n\n  
+                Line 1 ...:a My text file after five(5) empty lines\n 
+                Line 2 ...: My text file after five(5) empty lines\n 
+                Line 3 ...:a My text file after five(5) empty lines\n            
+                Line 4 ...: My text file after five(5) empty lines\n
+            """
+     
+    file.write(f"{tag_a}")
+    file.close
+except Exception as e:
+    print(f"Something  went wrong !!!....:    {str(e)}")
+    

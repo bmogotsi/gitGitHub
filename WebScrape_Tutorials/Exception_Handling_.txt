@@ -1,0 +1,3 @@
+/en/squads/b8fd03ef/Manchester-City-Stats
+/en/squads/b2b47a98/Newcastle-United-Stats
+/en/squads/b74092de/Ipswich-Town-Stats
