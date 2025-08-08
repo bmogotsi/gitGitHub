@@ -14,3 +14,6 @@ Download Git
 register your email and name on cosole or command line
       >> git config --global user.email "you@example.com"
       >> git config --global user.name "yourname"
+      
+https://blog.devgenius.io/build-your-own-simple-language-translator-with-python-066428cc902a
+https://learn.microsoft.com/en-us/dotnet/standard/base-types/substitutions-in-regular-expressions
