@@ -8,3 +8,9 @@
 ## https://www.geeksforgeeks.org/vector-operations/
 
 https://www.regular-expressions.info/anchors.html
+
+Config Git for windows:
+Download Git
+register your email and name on cosole or command line
+      >> git config --global user.email "you@example.com"
+      >> git config --global user.name "yourname"
